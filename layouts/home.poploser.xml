@@ -1,0 +1,28 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pop Loser - {{ site.Title }}</title>
+    <link>{{ site.BaseURL }}poploser/</link>
+    <description>Pop Loser posts from {{ site.Title }}</description>
+    <language>{{ site.Language.Lang }}</language>
+    <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml"/>
+    {{ $all := sort site.RegularPages "Date" "desc" }}
+    {{ range $all }}
+      {{ $postCats := .Params.categories }}
+      {{ if $postCats }}
+        {{ if not (reflect.IsSlice $postCats) }}
+          {{ $postCats = slice $postCats }}
+        {{ end }}
+        {{ if in $postCats "Pop Loser" }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      <guid>{{ .Permalink }}</guid>
+      <description>{{ .Content | htmlEscape }}</description>
+    </item>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </channel>
+</rss>

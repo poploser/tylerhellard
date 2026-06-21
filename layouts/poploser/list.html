@@ -1,0 +1,34 @@
+{{ define "content" }}
+{{ if .Content }}
+<article class="content-margin recent-post">
+{{ .Content }}
+</article>
+{{ end }}
+{{ $all := sort site.RegularPages "Date" "desc" }}
+{{ $filtered := slice }}
+{{ range $all }}
+  {{ $postCats := .Params.categories }}
+  {{ if $postCats }}
+    {{ if not (reflect.IsSlice $postCats) }}
+      {{ $postCats = slice $postCats }}
+    {{ end }}
+    {{ if in $postCats "Pop Loser" }}
+      {{ $filtered = $filtered | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $paginator := .Paginate $filtered 3 }}
+{{ range $paginator.Pages }}
+<article class="content-margin recent-post">
+  {{ .Content }}
+  <div class="perm"><a href="{{ .Permalink }}">{{ .Date.Format "Jan 02, 2006" | upper }}</a></div>
+ <h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+</article>
+{{ end }}
+{{ if $paginator.HasPrev }}
+<a href="{{ $paginator.Prev.URL }}" class="pagination-link">← Newer</a>
+{{ end }}
+{{ if $paginator.HasNext }}
+<a href="{{ $paginator.Next.URL }}" class="pagination-link">Older →</a>
+{{ end }}
+{{ end }}

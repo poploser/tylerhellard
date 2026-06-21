@@ -1,0 +1,263 @@
+/* LAYOUT */
+.header-menu-btn {
+  display: none !important;
+}
+
+/* Push main content down */
+#content.content-margin {
+  padding-top: 50px !important;
+}
+
+/* FONTS */
+html, body {
+  font-family: "Monda", sans-serif !important;
+  font-size: 20px;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #333;
+}
+
+.navbar-title,
+.navbar-item {
+  font-family: "Monda", sans-serif !important;
+}
+
+.brand a {
+  color: #fff !important;
+  font-size: 1.0em !important;
+  background: #000;
+  text-transform: uppercase;
+  font-weight: 700 !important;
+  padding: 0 5px 0 10px;
+}
+
+.fa-brands {
+  margin: 0 !important;
+}
+
+.pure-menu-link {
+  margin: 0;
+}
+
+/* Move navbar items to the right */
+#header_left {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  width: 100% !important;
+}
+
+#header_left .brand {
+  flex: 0 0 auto !important;
+  margin-right: auto !important;
+}
+
+#header_left nav,
+#header_left .pure-menu,
+#header_left #sidebar_btn {
+  flex: 0 0 auto !important;
+}
+
+#header_left .pure-menu-list {
+  display: flex !important;
+  justify-content: flex-end !important;
+}
+
+/* Remove empty header_right container */
+#header_right {
+  display: none !important;
+}
+
+/* Fix grey line */
+header {
+  height: auto !important;
+}
+
+article p,
+article li,
+article td,
+article blockquote,
+article dd {
+  font-family: "Monda", sans-serif !important;
+  line-height: 2.0em !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Monda", sans-serif !important;
+}
+
+/* LINKS */
+article a:link,
+article a:visited {
+  color: #000 !important;
+  font-weight: 600;
+  box-shadow: inset 0 -3px 0 #000;
+  padding: 0 2px;
+  transition: all .15s;
+  transition-timing-function: cubic-bezier(.7, 0, .3, 1);
+}
+
+article a:hover {
+  box-shadow: inset 0 -30px 0 #000;
+  color: #fff !important;
+}
+
+article {
+  max-width: 70% !important;
+  margin: 0 auto !important;
+  text-align: center;
+}
+
+/* H3 HEADERS & SKULLS */
+h3 {
+  text-align: center;
+  font-size: 1.4em;
+  margin: 50px 0 !important;
+  letter-spacing: 5px;
+}
+
+/* H4 HEADERS AND INLINE TEXT */
+.content-margin h4 {
+  color: #fff;
+  background-color: #000;
+  font-size: 0.9em;
+  font-weight: 700;
+  padding: 0 5px 0 10px;
+  margin: 0;
+  display: inline;
+  text-transform: uppercase;
+}
+
+h4 + p {
+  display: inline;
+  padding: 0 0 0 5px;
+}
+
+/* Hide anchor links on headings */
+h1 [href^="#"],
+h2 [href^="#"],
+h3 [href^="#"],
+h4 [href^="#"],
+h5 [href^="#"],
+h6 [href^="#"] {
+  display: none !important;
+}
+
+/* MARK TAG - rotating gradient highlight colors */
+mark {
+  font-style: italic;
+  font-weight: 700;
+  color: #000;
+  text-shadow: 0 1px #fff;
+  font-size: 0.9em;
+  padding: 0 4px;
+  border-radius: 2px;
+}
+
+mark.mark-color-0 {
+  background: linear-gradient(to top, #EA1889 20%, transparent 25%);
+}
+
+mark.mark-color-1 {
+  background: linear-gradient(to top, #43E608 20%, transparent 25%);
+}
+
+mark.mark-color-2 {
+  background: linear-gradient(to top, #33DDFF 20%, transparent 25%);
+}
+
+mark.mark-color-3 {
+  background: linear-gradient(to top, #FED600 20%, transparent 25%);
+}
+
+mark.mark-color-4 {
+  background: linear-gradient(to top, #FE5C00 20%, transparent 25%);
+}
+
+
+/* TILTED IMAGE */
+.art {
+  min-width: 60%;
+  height: auto;
+  border-radius: 0px;
+  object-fit: cover;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  border: 15px #000 solid;
+}
+
+
+/* DATE STYLING */
+.perm a:link,
+.perm a:visited {
+  color: #aaa !important;
+  font-size: 0.6em;
+  font-weight: 400 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+.perm a:hover {
+  color: #777 !important;
+  box-shadow: none !important;
+}
+
+/* Hide postcard list boxes on homepage */
+.postcard-layout {
+  display: none !important;
+}
+
+/* Homepage intro block */
+.home-intro {
+  font-size: 1.1em;
+  border: 15px solid #333;
+  padding: 20px;
+  margin: 0 0 90px 0 !important;
+  color: #EA1889;
+  font-weight: 900;
+}
+
+hr {
+  border: 2px solid #333;
+  border-radius: 1px;
+}
+
+/* Pagination */
+.pagination-link {
+  display: inline-block;
+  margin: 20px 10px;
+  font-size: 0.8em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+
+/* Podcast icon link styling */
+article a.podcast-link,
+article a.podcast-link:link,
+article a.podcast-link:visited {
+  color: #D56DFB !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  font-weight: 400 !important;
+}
+
+article a.podcast-link:hover {
+  color: #D56DFB !important;
+  box-shadow: none !important;
+}
+ 
+/* Gallery grid */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 50px;
+}
+
+.gallery img {
+  width: 30%;
+  height: 30%;
+}
+

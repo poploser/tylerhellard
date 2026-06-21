@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on Tyler Hellard</title>
+    <link>//localhost:8080/categories/general/</link>
+    <description>Recent content in General on Tyler Hellard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>Tyler Hellard</managingEditor>
+    <webMaster>Tyler Hellard</webMaster>
+    
+    <lastBuildDate>Fri, 19 Jun 2026 07:53:32 -0600</lastBuildDate><atom:link href="//localhost:8080/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>//localhost:8080/posts/hello-world/</link>
+      <pubDate>Fri, 19 Jun 2026 07:53:32 -0600</pubDate>
+      
+      
+      <author>Tyler Hellard</author>
+      <guid>//localhost:8080/posts/hello-world/</guid>
+      <description>&lt;p&gt;This is a test post. ==We will be trying different Markdown things.==&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Like this.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; And this.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;And this.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://nope&#34;&gt;And this&lt;/a&gt; kind of thing. / You know?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+{{ $limit := .Get "limit" | default 25 }}
+{{ $categories := slice "Pop Loser" "Photos" "Field Notes" }}
+{{ $all := sort site.RegularPages "Date" "desc" }}
+{{ $filtered := slice }}
+{{ range $all }}
+  {{ $postCats := .Params.categories }}
+  {{ if $postCats }}
+    {{ if not (reflect.IsSlice $postCats) }}
+      {{ $postCats = slice $postCats }}
+    {{ end }}
+    {{ $match := false }}
+    {{ range $categories }}
+      {{ if in $postCats . }}
+        {{ $match = true }}
+      {{ end }}
+    {{ end }}
+    {{ if $match }}
+      {{ $filtered = $filtered | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ range first $limit $filtered }}
+<article class="content-margin recent-post">
+  {{ .Content }}
+  <div class="perm"><a href="{{ .Permalink }}">{{ .Date.Format "Jan 02, 2006" | upper }}</a></div>
+</article>
+
+<h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+
+{{ end }}

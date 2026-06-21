@@ -1,0 +1,49 @@
+<script>
+  var colors = ['#EA1889', '#43E608', '#33DDFF', '#FED600', '#FE5C00'];
+
+  // Color all h3s
+  document.querySelectorAll('article h3').forEach(function(el, i) {
+    el.style.color = colors[i % colors.length];
+  });
+
+  // Color and tilt each skull icon
+  document.querySelectorAll('.fa-skull-crossbones').forEach(function(el, i) {
+    el.style.color = colors[i % colors.length];
+    var angle = Math.floor(Math.random() * 20) - 10;
+    el.style.transform = 'rotate(' + angle + 'deg)';
+    el.style.display = 'inline-block';
+  });
+
+  // Tilt each image
+  document.querySelectorAll('article img').forEach(function(el) {
+    var angle = Math.floor(Math.random() * 4) - 2;
+    el.style.transform = 'rotate(' + angle + 'deg)';
+  });
+
+  // Wrap each H4 with its immediately following P and tilt together
+  document.querySelectorAll('.content-margin h4').forEach(function(el) {
+    var wrapper = document.createElement('div');
+    wrapper.className = 'h4-section';
+    wrapper.style.display = 'inline-block';
+    wrapper.style.verticalAlign = 'bottom';
+    var angle = Math.floor(Math.random() * 3) - 1;
+    wrapper.style.transform = 'rotate(' + angle + 'deg)';
+    wrapper.style.marginBottom = '1em';
+
+    var toWrap = [el];
+    var next = el.nextElementSibling;
+    if (next && next.tagName === 'P') {
+      toWrap.push(next);
+    }
+
+    el.parentNode.insertBefore(wrapper, toWrap[0]);
+    toWrap.forEach(function(node) {
+      wrapper.appendChild(node);
+    });
+  });
+
+  // Cycle highlight colors on all <mark> elements
+  document.querySelectorAll('mark').forEach(function(el, i) {
+    el.classList.add('mark-color-' + (i % colors.length));
+  });
+</script>

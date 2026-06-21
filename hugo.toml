@@ -1,0 +1,115 @@
+baseURL = '/'
+defaultContentLanguage = 'en'
+title = 'Tyler Hellard'
+theme = 'hugo-theme-monochrome'
+
+[markup.goldmark.renderer]
+  unsafe = true
+  enable_header_anchor = false
+  wrapHeadingSection = false
+  autoHeadingID = true
+
+[markup.goldmark.extensions.extras.mark]
+  enable = true
+
+[[menu.navbar]]
+  identifier = "poploser"
+  name = '<i class="fa-solid fa-skull" style="color: #EA1889;"></i> <span style="margin-right: 25px;">Pop Loser</span>'
+  url = "/poploser/"
+  weight = 50
+
+[[menu.navbar]]
+  identifier = "info"
+  name = '<i class="fa-solid fa-circle-info"></i> <span style="margin-right: 25px;">Info</span>'
+  url = "/info/"
+  weight = 90
+
+[[menu.navbar]]
+  identifier = "mixtapes"
+  name = '<i class="fa-solid fa-radio"></i> <span style="margin-right: 25px;">Tapes</span>'
+  url = "/mixtapes/"
+  weight = 70
+
+[[menu.navbar]]
+  identifier = "photos"
+  name = '<i class="fa-solid fa-camera-retro"></i> <span style="margin-right: 25px;">Photos</span>'
+  url = "/photos/"
+  weight = 70
+
+[[menu.navbar]]
+  identifier = "mastodon"
+  name = '<i class="fa-brands fa-mastodon" style="color: #563ACC; margin: 0;"></i>'
+  url = "https://mstdn.ca/@poploser"
+  weight = 100
+
+[[menu.navbar]]
+  identifier = "bluesky"
+  name = '<i class="fa-brands fa-bluesky" style="color: #87CEEB; margin: 0;"></i>'
+  url = "https://bsky.app/profile/tylerhellard.com"
+  weight = 101
+
+[[menu.navbar]]
+  identifier = "linkedin"
+  name = '<i class="fa-brands fa-linkedin" style="color: #0072b1; margin: 0;"></i>'
+  url = "https://www.linkedin.com/in/tylerhellard/"
+  weight = 102
+
+[[menu.navbar]]
+  identifier = "email"
+  name = '<i class="fa-solid fa-envelope" style="color: #222; margin: 0;"></i>'
+  url = "mailto:tylerc@spincity.org"
+  weight = 105
+
+[[menu.navbar]]
+  identifier = "rss"
+  name = '<i class="fa-solid fa-rss" style="color: #FE5C00; margin: 0;"></i>'
+  url = "TKTK"
+  weight = 104
+
+[[menu.navbar]]
+  identifier = "linkedin"
+  name = '<i class="fa-brands fa-linkedin" style="color: #0072b1; margin: 0;"></i>'
+  url = "https://www.linkedin.com/in/tylerhellard/"
+  weight = 102
+
+[params]
+  navbar_title = "Tyler Hellard."
+  hide_navbar_on_scroll = false
+  navbar_width = "wide"
+  enable_toc = false
+  color_scheme = "light"
+  footer = "Not sure what I want for a footer yet."
+
+  [params.list_layout]
+    enable_group_by_year = true
+    enable_show_date = true
+    enable_pagination = true
+
+[pagination]
+  pagerSize = 3
+
+  [params.author]
+    name = "Tyler Hellard"
+    email = "tylerc@spincity.org"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[outputFormats.feed]
+mediaType = "application/rss+xml"
+baseName = "feed"
+rel = "alternate"
+isPlainText = false
+
+[outputFormats.poploser]
+mediaType = "application/rss+xml"
+baseName = "poploser"
+rel = "alternate"
+isPlainText = false
+
+[outputs]
+home = ["HTML", "RSS", "feed", "poploser"]
+section = ["HTML", "RSS"]
+

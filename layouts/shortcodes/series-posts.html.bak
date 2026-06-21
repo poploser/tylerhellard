@@ -1,0 +1,6 @@
+{{ $series := .Get "series" }}
+{{ range where site.RegularPages "Params.series" "intersect" (slice $series) }}
+<article class="content-margin recent-post">
+  {{ .Content }}
+</article>
+{{ end }}

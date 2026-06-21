@@ -1,0 +1,27 @@
+{{ define "main" }}
+{{ $pages := where .Pages "Params.categories" "intersect" (slice "Pop Loser") }}
+{{ if not $pages }}
+  {{/* Handle string categories like we did in the shortcode */}}
+  {{ $filtered := slice }}
+  {{ range .Pages }}
+    {{ $postCats := .Params.categories }}
+    {{ if $postCats }}
+      {{ if not (reflect.IsSlice $postCats) }}
+        {{ $postCats = slice $postCats }}
+      {{ end }}
+      {{ if in $postCats "Pop Loser" }}
+        {{ $filtered = $filtered | append . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ $pages = $filtered }}
+{{ end }}
+{{ $paginator := .Paginate (sort $pages "Date" "desc") 3 }}
+{{ range $paginator.Pages }}
+<article class="content-margin recent-post">
+  {{ .Content }}
+  <div class="perm"><a href="{{ .Permalink }}">{{ .Date.Format "Jan 02, 2006" | upper }}</a></div>
+</article>
+{{ end }}
+{{ template "_internal/pagination.html" . }}
+{{ end }}

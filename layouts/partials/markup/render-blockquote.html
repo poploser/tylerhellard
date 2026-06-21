@@ -1,0 +1,5 @@
+{{ $colors := slice "#43E608" "#EA1889" "#33DDFF" "#FED600" "#FE5C00" }}
+{{ $color := index $colors (mod .Ordinal (len $colors)) }}
+<blockquote class="inline-quote" style="background: linear-gradient(to top, {{ $color }} 25%, transparent 25%);">
+{{ .Text }}
+</blockquote>

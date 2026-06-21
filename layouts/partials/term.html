@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{ $pages := sort .Pages "Date" "asc" }}
+{{ range $pages }}
+<article class="content-margin recent-post">
+  {{ .Content }}
+  <div class="date"><a href="{{ .Permalink }}">{{ .Date.Format "Jan 02, 2006" | upper }}</a></div>
+</article>
+{{ end }}
+{{ end }}

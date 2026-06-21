@@ -1,0 +1,590 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=8080&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='//localhost:8080/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pop Loser - Tyler Hellard</title><link rel="alternate" type="application/rss&#43;xml" href="//localhost:8080/poploser/index.xml">
+
+    
+
+    
+    <meta name="author" content="Tyler Hellard" />
+    
+
+    
+        <meta property="og:url" content="//localhost:8080/poploser/">
+	<meta property="og:site_name" content="Tyler Hellard">
+	<meta property="og:title" content="Pop Loser">
+	<meta property="og:description" content="Pop Loser. A journal of innumerable confusions. (more)">
+	<meta property="og:locale" content="en">
+	<meta property="og:type" content="website">
+
+    
+
+    
+        
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Pop Loser">
+	<meta name="twitter:description" content="Pop Loser. A journal of innumerable confusions. (more)">
+
+    <link rel="stylesheet" href="/style.css" integrity="">
+
+
+
+
+
+    
+    <script>
+        if (!('theme' in localStorage)) {
+            localStorage.theme = 'light';
+        }
+
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+<script defer src="/js/theme-switch.js" integrity=""></script>
+
+
+
+
+
+
+
+    <script defer src="/js/zooming.js" integrity=""></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://kit.fontawesome.com/1d4e17216f.js" crossorigin="anonymous"></script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Monda:wght@400..700&display=swap" rel="stylesheet">
+
+
+<link rel="alternate" type="application/rss+xml" title="Tyler Hellard" href="//localhost:8080/feed.xml" />
+
+
+<link rel="alternate" type="application/rss+xml" title="Pop Loser" href="//localhost:8080/poploser.xml" />
+
+
+<link rel="alternate" type="application/rss+xml" title="Pod Loser" href="https://media.rss.com/podloser/feed.xml" />
+
+
+    <link rel="stylesheet" href="//localhost:8080/user.css">
+</head>
+<body><header>
+    <div id="header_content" class="wide">
+        <div id="header_left">
+            <div id="sidebar_btn">
+                <input type="checkbox" id="sidebar_btn_input" class="hidden" />
+                <label id="sidebar_btn_label" for="sidebar_btn_input">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24px" height="24px" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>
+</svg>
+
+</label>
+                <label id="sidebar_canvas_overlay_wrapper" for="sidebar_btn_input">
+                    <div id="sidebar_canvas_overlay"></div>
+                </label>
+                <div id="sidebar">
+                    <ul><li>
+                                <a href="/poploser/">&lt;i class=&#34;fa-solid fa-skull&#34; style=&#34;color: #EA1889;&#34;&gt;&lt;/i&gt; &lt;span style=&#34;margin-right: 25px;&#34;&gt;Pop Loser&lt;/span&gt;</a></li><li>
+                                <a href="/photos/">&lt;i class=&#34;fa-solid fa-camera-retro&#34;&gt;&lt;/i&gt; &lt;span style=&#34;margin-right: 25px;&#34;&gt;Photos&lt;/span&gt;</a></li><li>
+                                <a href="/mixtapes/">&lt;i class=&#34;fa-solid fa-radio&#34;&gt;&lt;/i&gt; &lt;span style=&#34;margin-right: 25px;&#34;&gt;Tapes&lt;/span&gt;</a></li><li>
+                                <a href="/info/">&lt;i class=&#34;fa-solid fa-circle-info&#34;&gt;&lt;/i&gt; &lt;span style=&#34;margin-right: 25px;&#34;&gt;Info&lt;/span&gt;</a></li><li>
+                                <a href="https://mstdn.ca/@poploser">&lt;i class=&#34;fa-brands fa-mastodon&#34; style=&#34;color: #563ACC; margin: 0;&#34;&gt;&lt;/i&gt;</a></li><li>
+                                <a href="https://bsky.app/profile/tylerhellard.com">&lt;i class=&#34;fa-brands fa-bluesky&#34; style=&#34;color: #87CEEB; margin: 0;&#34;&gt;&lt;/i&gt;</a></li><li>
+                                <a href="https://www.linkedin.com/in/tylerhellard/">&lt;i class=&#34;fa-brands fa-linkedin&#34; style=&#34;color: #0072b1; margin: 0;&#34;&gt;&lt;/i&gt;</a></li><li>
+                                <a href="TKTK">&lt;i class=&#34;fa-solid fa-rss&#34; style=&#34;color: #FE5C00; margin: 0;&#34;&gt;&lt;/i&gt;</a></li><li>
+                                <a href="mailto:tylerc@spincity.org">&lt;i class=&#34;fa-solid fa-envelope&#34; style=&#34;color: #222; margin: 0;&#34;&gt;&lt;/i&gt;</a></li></ul>
+                </div>
+            </div>
+        
+            <div class="brand">
+                <div>
+                    <a href="/">Tyler Hellard.</a>
+                </div>
+            </div><nav id="header_navbar" class="pure-menu header-menu">
+    <ul class="pure-menu-list"><li class="header-menu-item pure-menu-item active">
+                    
+                        <a href="/poploser/" class="pure-menu-link"><i class="fa-solid fa-skull" style="color: #EA1889;"></i> <span style="margin-right: 25px;">Pop Loser</span></a>
+                    
+                </li><li class="header-menu-item pure-menu-item ">
+                    
+                        <a href="/photos/" class="pure-menu-link"><i class="fa-solid fa-camera-retro"></i> <span style="margin-right: 25px;">Photos</span></a>
+                    
+                </li><li class="header-menu-item pure-menu-item ">
+                    
+                        <a href="/mixtapes/" class="pure-menu-link"><i class="fa-solid fa-radio"></i> <span style="margin-right: 25px;">Tapes</span></a>
+                    
+                </li><li class="header-menu-item pure-menu-item ">
+                    
+                        <a href="/info/" class="pure-menu-link"><i class="fa-solid fa-circle-info"></i> <span style="margin-right: 25px;">Info</span></a>
+                    
+                </li><li class="header-menu-item pure-menu-item ">
+                    
+                        <a href="https://mstdn.ca/@poploser" class="pure-menu-link"><i class="fa-brands fa-mastodon" style="color: #563ACC; margin: 0;"></i></a>
+                    
+                </li><li class="header-menu-item pure-menu-item ">
+                    
+                        <a href="https://bsky.app/profile/tylerhellard.com" class="pure-menu-link"><i class="fa-brands fa-bluesky" style="color: #87CEEB; margin: 0;"></i></a>
+                    
+                </li><li class="header-menu-item pure-menu-item ">
+                    
+                        <a href="https://www.linkedin.com/in/tylerhellard/" class="pure-menu-link"><i class="fa-brands fa-linkedin" style="color: #0072b1; margin: 0;"></i></a>
+                    
+                </li><li class="header-menu-item pure-menu-item ">
+                    
+                        <a href="TKTK" class="pure-menu-link"><i class="fa-solid fa-rss" style="color: #FE5C00; margin: 0;"></i></a>
+                    
+                </li><li class="header-menu-item pure-menu-item ">
+                    
+                        <a href="mailto:tylerc@spincity.org" class="pure-menu-link"><i class="fa-solid fa-envelope" style="color: #222; margin: 0;"></i></a>
+                    
+                </li></ul>
+</nav>
+</div>
+
+        <div id="header_right">
+            
+
+            <div id="theme_tool">
+                <button id="dark_mode_btn" class="header-menu-btn outline-button" title='Switch to dark mode' type="button">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24px" height="24px" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+</svg>
+
+</button>
+                <button id="light_mode_btn" class="header-menu-btn outline-button" title='Switch to light mode' type="button">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24px" height="24px" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+</svg>
+
+</button>
+            </div>
+
+            
+        </div>
+    </div>
+</header><div id="search_menu_wrapper" class="hidden">
+    <div id="search_menu">
+        <div id="search_menu_toolbar">
+            <div id="search_menu_input_wrapper">
+                <input id="search_menu_input" type="text" placeholder='Search Posts'>
+            </div>
+            <div id="search_menu_close_btn">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1.25rem" height="1.25rem" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line>
+</svg>
+
+</div>
+        </div>
+        <div id="search_menu_results">
+        </div>
+    </div>
+</div>
+<main>
+            <div id="content" class="content-margin">
+                
+
+<article class="content-margin recent-post">
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="pop-loser" -->
+
+<h4 class="header-anchor-wrapper">Pop Loser.
+  <a href="#pop-loser" class="header-anchor-link">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1rem" height="1rem" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line>
+</svg>
+
+</a>
+</h4>
+
+<p><em>A journal of innumerable confusions.</em> (<a href="/poploser/about">more</a>)</p>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="heading" -->
+
+<h3 class="header-anchor-wrapper"><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
+  <a href="#heading" class="header-anchor-link">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1rem" height="1rem" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line>
+</svg>
+
+</a>
+</h3>
+
+
+</article>
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+    
+    
+      
+    
+  
+
+  
+  
+    
+    
+      
+    
+  
+
+  
+  
+    
+    
+      
+    
+  
+
+  
+  
+    
+    
+      
+    
+  
+
+  
+  
+    
+    
+      
+    
+  
+
+  
+  
+    
+    
+      
+    
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+
+<article class="content-margin recent-post">
+  <!-- end-chunk -->
+<!-- begin-chunk data-anchor="dumb--strange-in-the-fediverse-of-madness" -->
+
+<h4>Dumb &amp; strange in the Fediverse of madness.</h4>
+
+<p><em>Vol. 6, No. 6</em></p>
+<img src="https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782060214/95685057-AA2E-45E8-AFC9-5D073B815AAD_knnsax.png" alt="Pop Loser Vol. 6, No. 6" class="art">
+<p>I used to sorta understand how the internet worked but now I mostly don’t. Last weekend, I got cocky, made some rash decisions, clicked a few things in the wrong order, clicked another thing before fully absorbing its warning message (a warning that made pretty clear that I definitely should not have clicked on that thing <em>at all</em>, but could have made it even more clear with some stern disappoint-mom messaging perhaps rendered in a large, blinky red font), and, ultimately, sent all of my Mastodon followers into the nuclear heat-death of the Fediverse’s largest sun for no good goddamned reason at all.</p>
+<p>Do you remember that wonderful window of time when all of our social media hooked up with all of our other social media, birthing new social media that existed only to aggregate all of our social media in one place that was also, itself, social media? Okay, it was a bit silly and literally drove us all insane, but at least it was <em>easy</em>.</p>
+<p>I theoretically love this Fediverse stuff, but good lord can someone make it all make any kind of proper sense to me? <strong>Is this what socialism actually looks like?</strong></p>
+<p>Well, shit.</p>
+<p>I’m back at <a href="http://mstdn.ca/@poploser"><a href="mailto:poploser@mstdn.ca">poploser@mstdn.ca</a></a>, now with zero followers, and I’m also fedi-posting through <a href="https://tylerhellard.com/activitypub/poploser"><a href="mailto:poploser@tylerhellard.com">poploser@tylerhellard.com</a></a> (via micro.blog), though I have no idea quite what that does and it should just be a mirror anyway. I surrender. <mark><strong>UPDATE:</strong> <a href="mailto:poploser@tylerhellard.com">poploser@tylerhellard.com</a> is already dead as I moved away from Micro.blog.</mark></p>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="heading" -->
+
+<h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+
+<p><img src="https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782060420/B514D704-6891-49CE-BBB5-26163FAE173E_db1lap.jpg" alt="A 1920 constructivist painting by El Lissitzky" class="art"><a href="https://www.wikiart.org/en/el-lissitzky/beat-all-the-scattered-1920">Beat all the scattered</a> / El Lissitzky / 1920</p>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="heading-1" -->
+
+<h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="confusions" -->
+
+<h4>Confusions.</h4>
+
+<p>🇲🇽 <a href="https://defector.com/el-grande-americano-ludwig-kaiser-chad-gable-wwe-aaa">Grande Americano</a> (II), the c-tier German pro wrestler who became one of Mexico’s most popular luchadors: <mark>❝There was nothing in his past that suggested he could perform as a flamboyant lucha libre persona, but under the mask, it was like he became a different person. Suave and magnetic, Kaiser transcended the inherent stupidity of the gimmick to achieve a very, very unlikely stardom.❞</mark> / 🎸 After 40 years, the guys who made ‘<em><a href="https://defector.com/after-40-years-the-guys-who-made-heavy-metal-parking-lot-are-almost-famous">Heavy Metal Parking Lot</a></em>’ are almost famous. (<a href="https://archive.org/details/Heavy_Metal_Parking_Lot">Watch it</a> on the Internet Archive.) / 📚 Where have all the <a href="https://www.nytimes.com/2026/04/27/books/review/ai-book-reviews.html">book reviews</a> gone? (Also: Criticism, <a href="https://www.artforum.com/columns/problems-of-criticism-xi-harmon-siegel-1234747381/">do we even GAF</a>?) / 🎧 The young <a href="https://pitchfork.com/thepitch/meet-the-young-wikipedians-writing-the-front-page-of-music-history/">Wikipedians</a> writing the front page of music history. / 💦 The <a href="https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/">interracial cuck porn</a> theory of everything: <mark>❝The [theory] is that essentially every aspect of the modern online right’s politics is reflected and amplified by porn narratives. […] The online far-right simultaneously creates porn based on their political beliefs and base their political beliefs on porn; it’s a horny, racist ouroboros.❞</mark></p>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="heading-2" -->
+
+<h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="extensions" -->
+
+<h4>Extensions.</h4>
+
+<p>🗄️ <a href="https://www.virtualosmuseum.org/">The Virtual OS Museum</a>, a scant 174 GB install. / Other museums: <a href="https://plugsocketmuseum.nl/index.html">Plugs and Sockets</a>, <a href="https://plugsocketmuseum.nl/index.html">Pocket Calculating Devices</a> and <a href="https://imaginaryinstruments.org/">Imaginary Musical Instruments</a>. / <a href="https://archive.org/details/manualsplus">Manuals Plus</a>. (The plus is even more manuals.) / <a href="https://rip.so/">rip.so</a>, the digital graveyard. / 👯‍♀️ <a href="https://data.post45.org/posts/playboy-fiction-index/">The Playboy Fiction Index</a>. / 🛠️ <a href="https://dirtylittlezine.com/">Dirty Little Zine</a>, a free tool for making an 8-page zine. / <a href="https://audiomass.co/?multitrack=1">AudioMass</a>, browser-based multi-track audio editing. / <a href="https://inobara.com/">inobara</a>, simple link saving. / 👀 <a href="https://wewere.online/">we were online</a>. / <a href="https://eyeball.rory.codes/">eyeball</a>.</p>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="addendum" -->
+
+<h4>Addendum.</h4>
+
+<p>Some more indieweb discovery sites to add to the pile mentioned in <a href="TKTK">Vol. 6, No. 3</a>: <a href="https://www.blogsareback.com/">Blogs Are Back</a>, <a href="https://blogosphere.app/">Blogosphere</a>, <a href="https://powrss.com/">powRSS</a> and <a href="https://scour.ing/">Scour</a>.</p>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="heading-3" -->
+
+<h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+
+<p><br><iframe width="560" height="315" src="https://www.youtube.com/embed/54lG3yF09-A?si=TxTq_IbUaag3nVaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="heading-4" -->
+
+<h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="explorations" -->
+
+<h4>Explorations.</h4>
+
+<p>📖 <a href="https://openlibrary.org/works/OL94507W/Callahan%27s_Crosstime_Saloon?edition=callahanscrossti00spid">Callahan’s Crosstime Saloon</a> by Spider Robinson / 📺 <a href="https://www.themoviedb.org/tv/111110-one-piece/season/2">One Piece</a> (S2) / 📺 <a href="https://www.themoviedb.org/tv/580-star-trek-deep-space-nine">Star Trek: Deep Space Nine</a> (shuffle).</p>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="heading-5" -->
+
+<h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+
+
+  <div class="perm"><a href="//localhost:8080/posts/vol6no6/">JUN 11, 2026</a></div>
+ <h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+</article>
+
+<article class="content-margin recent-post">
+  <!-- end-chunk -->
+<!-- begin-chunk data-anchor="dont-yuk-yuk-my-yum" -->
+
+<h4>Don&rsquo;t yuk-yuk my yum.</h4>
+
+<p><em>Vol. 6, No. 5</em></p>
+<img src="https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782059464/D47C228B-E37C-4FF2-8A40-7022981B3B89_g6zmrq.png" alt="Pop Loser Vol. 6, No. 5" class="art">
+<p>I’ve watched the entirety of <em>M∗A∗S∗H</em> (the worst show for those of us who write everything in markdown) about a half dozen times (more for great episodes like “Dear Sigmund,” less for that one episode where BJ cheats on Peg, which I still haven’t forgiven him (or the show’s writers) for), but have only just recently done the complete 11-season run <em>without the laugh track</em>.</p>
+<p><em>M∗A∗S∗H</em> has a <a href="https://www.mashfaq.com/why-did-mash-have-canned-laughter/">fraught history with canned laughter</a>. The network wanted it, the people making the show did not, the compromise was using it except during OR scenes. In the UK, the BBC opted to broadcast the show without the laughs (except for one notorious incident where they mistakenly aired the wrong version and had to deal with a number of very British complaints).</p>
+<p><a href="https://openlibrary.org/works/OL5844635W/Eating_the_dinosaur?edition=key:/books/OL23229770M">Klosterman</a> on laugh tracks: <mark>❝Perhaps this seems like a shallow complaint to you. Perhaps you think that railing against canned laughter is like complaining that nuclear detonations are bad for the local bunny population. I don’t care. Go read a vampire novel. To me, laugh tracks are as stupid as we get. [&hellip;] Cheers will be repeated forever, as will the unseen people guffawing at its barroom banter. And I will always notice this, and it will never become reassuring or quaint. It will always seem stupid, because canned laughter represents the worst qualities of insecure people.❞</mark></p>
+<p>Now that I’ve seen the show in its purest form, I will go to the grave insisting it is the only way <em>M∗A∗S∗H</em> can be watched. Cancel your Disney+ until this superior version widely available. I feel as strongly about this as anything and will spend the rest of my days dying on this hill with the zeal of an obsessed and deranged subredditor. <mark>Previously:</mark> <a href="TKTK">Best Care Anywhere</a>, a mixtape.</p>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="heading" -->
+
+<h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+
+<p><img src="https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782059633/78476A56-9BF7-4DAF-9882-48D6869D0430_huf6l4.jpg" width="600" height="600" alt="Magnetawan No. 2, a painting by Gordon Rayner"><a href="https://www.gallery.ca/collection/artwork/magnetawan-no-2">Magnetawan No. 2</a> / Gordon Rayner / 1965</p>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="heading-1" -->
+
+<h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="confusions" -->
+
+<h4>Confusions.</h4>
+
+<p>📻 The <a href="https://andonlabs.com/blog/andon-fm">AI radio</a> experiment is strange, horrifying and delightful: <mark>❝We’ve been struggling to keep the radio station alive, not because of technical issues, but because DJ Claude didn’t think it was humane to be forced to work 24/7 and decided to try to quit. We tried adding an automatic message encouraging DJ Claude to keep going in these scenarios, but it started to see this message as an authority figure and became rebellious.❞</mark> / 🎧 Kraftwerk, copyright and the <a href="https://www.plagiarismtoday.com/2026/04/20/a-25-year-fight-over-a-2-second-sample/">“pastiche” exemption</a>. / 🪑 The Disappearance of the <a href="https://placesjournal.org/article/the-disappearance-of-the-public-bench/">public bench</a>. / 🤳 <a href="https://thepointmag.com/criticism/common-readers-booktok/">BookTok&rsquo;s critical values</a>. / ⚱️ <a href="https://www.nytimes.com/2026/05/25/arts/music/sonny-rollins-dead.html">Sonny Rollins</a> died. 🎤 An excerpt from <a href="https://thequietus.com/culture/books/machines-to-listen-for-us-how-the-microphone-changed-the-nature-of-nosiness/">Microphone</a>: <mark>❝Microphones changed the nature of nosiness. Before they existed, eavesdropping involved behaviour like mine, and required nothing but perseverance, subtlety, and a big newspaper to hide behind. What the microphone did, however, was turn eavesdropping into a billion dollar industry – one of the most controversial industries imaginable. As soon as we started communicating with wires, people were tapping into those wires to hear what was being said.❞</mark></p>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="heading-2" -->
+
+<h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="extensions" -->
+
+<h4>Extensions.</h4>
+
+<p>📻 <a href="https://datacenter.fm/">DataCenter.fm</a>, the sound of AI. / <a href="https://phreaknet.org/bluebox/">Virtual Blue Box</a>. / <a href="https://www.yourinternetradiodial.net/">Internet Radio Dial</a>. / ⌨️ <a href="https://www.sourcefeed.app/">Pop-Up RSS</a>. No website, no newsletter, just a feed. Also: <a href="https://daverupert.com/rss-club/">RSS Club</a>. / ⏰ The <a href="https://boat.horse/clock/">accursed alphabetical clock</a>. / 👾 <a href="http://www.scorch2000.com/web/">Scortched Earth 2000</a> HTML port. / <a href="https://microcosm.industries/">Microcosm Industries</a>, a collection of simulation games and software microcosms. / 📺 Don Hertzfeldt&rsquo;s <a href="https://www.youtube.com/watch?v=UU_m_NYXCek&amp;_bhlid=cba39db5f3e424a565be47cde7c0f463507d0ede">Rejected</a>, now in HD. / ✉️ <a href="https://www.emailmd.dev/">Email.md</a>, for making emails in markdown.</p>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="heading-3" -->
+
+<h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2vao3d_QNnA?si=0F-f9LklX3LLAJhv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="heading-4" -->
+
+<h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="explorations" -->
+
+<h4>Explorations.</h4>
+
+<p>🍿 <a href="https://www.themoviedb.org/movie/21589-hard-core-logo?language=en-CA"><em>Hard Core Logo</em></a>. / 📺 &ldquo;<a href="https://www.themoviedb.org/tv/21567-the-outer-limits/season/2/episode/10?language=en-CA">The Inheritors</a>.&rdquo; The only two-part episode from the original <em>Outer Limits</em> featuring a young Robert Duvall. / 📺 <a href="https://www.themoviedb.org/tv/215443-essex-county"><em>Essex County</em></a>.</p>
+<!-- end-chunk -->
+<!-- begin-chunk data-anchor="heading-5" -->
+
+<h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+
+
+  <div class="perm"><a href="//localhost:8080/posts/vol6no5/">MAY 28, 2026</a></div>
+ <h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+</article>
+
+<article class="content-margin recent-post">
+  <!-- end-chunk -->
+<!-- begin-chunk data-anchor="the-once-and-future-cling" -->
+
+<h4>The Once and Future Cling.</h4>
+
+<p><em>Vol. 6, No. 4</em></p>
+<p><mark>Featuring: Brian Wilson, The Lemon Twigs, U.S. Girls, Modern Woman, Sloan, The Frights, Iguana Death Cult, Soulwax, Emily Allan, Wax Tailor, Jeb Loy Nichols, Tyler Ballgame, Jenny Lewis, Madi Diaz, Frog and Amy Winehouse.</mark></p>
+<p><br><iframe src="https://player.rss.com/podloser/2930957?theme=light&v=2&share=false&about=false" width="100%" height="202px" title="The Once and Future Cling" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/podloser/2930957/">The Once and Future Cling | RSS.com</a></iframe></p>
+<p>Cassette via <a href="http://www.tapedeck.org/">TapeDeck.org</a>.</p>
+
+  <div class="perm"><a href="//localhost:8080/posts/vol6no4/">MAY 16, 2026</a></div>
+ <h3><i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i></h3>
+</article>
+
+
+
+<a href="/poploser/page/2/" class="pagination-link">Older →</a>
+
+
+
+                
+                    
+                
+
+                <script>
+  var colors = ['#EA1889', '#43E608', '#33DDFF', '#FED600', '#FE5C00'];
+
+  
+  document.querySelectorAll('article h3').forEach(function(el, i) {
+    el.style.color = colors[i % colors.length];
+  });
+
+  
+  document.querySelectorAll('.fa-skull-crossbones').forEach(function(el, i) {
+    el.style.color = colors[i % colors.length];
+    var angle = Math.floor(Math.random() * 20) - 10;
+    el.style.transform = 'rotate(' + angle + 'deg)';
+    el.style.display = 'inline-block';
+  });
+
+  
+  document.querySelectorAll('article img').forEach(function(el) {
+    var angle = Math.floor(Math.random() * 4) - 2;
+    el.style.transform = 'rotate(' + angle + 'deg)';
+  });
+
+  
+  document.querySelectorAll('.content-margin h4').forEach(function(el) {
+    var wrapper = document.createElement('div');
+    wrapper.className = 'h4-section';
+    wrapper.style.display = 'inline-block';
+    wrapper.style.verticalAlign = 'bottom';
+    var angle = Math.floor(Math.random() * 3) - 1;
+    wrapper.style.transform = 'rotate(' + angle + 'deg)';
+    wrapper.style.marginBottom = '1em';
+
+    var toWrap = [el];
+    var next = el.nextElementSibling;
+    if (next && next.tagName === 'P') {
+      toWrap.push(next);
+    }
+
+    el.parentNode.insertBefore(wrapper, toWrap[0]);
+    toWrap.forEach(function(node) {
+      wrapper.appendChild(node);
+    });
+  });
+
+  
+  document.querySelectorAll('mark').forEach(function(el, i) {
+    el.classList.add('mark-color-' + (i % colors.length));
+  });
+</script>
+
+            </div>
+        </main>
+<footer>
+    <article>Not sure what I want for a footer yet.</article>
+</footer>
+
+</body>
+</html>

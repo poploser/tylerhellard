@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tyler Hellard</title>
+    <link>//localhost:8080/categories/</link>
+    <description>Recent content in Categories on Tyler Hellard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tylerc@spincity.org (Tyler Hellard)</managingEditor>
+    <webMaster>tylerc@spincity.org (Tyler Hellard)</webMaster>
+    
+    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:8080/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pop Loser</title>
+      <link>//localhost:8080/categories/pop-loser/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      
+      
+      <author>tylerc@spincity.org (Tyler Hellard)</author>
+      <guid>//localhost:8080/categories/pop-loser/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

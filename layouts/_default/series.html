@@ -1,0 +1,21 @@
+{{ define "content" }}
+{{ if .Content }}
+<article class="content-margin recent-post">
+{{ .Content }}
+</article>
+{{ end }}
+{{ $series := .Params.filter_series }}
+{{ range site.RegularPages.ByDate }}
+  {{ $postSeries := .Params.series }}
+  {{ if $postSeries }}
+    {{ if not (reflect.IsSlice $postSeries) }}
+      {{ $postSeries = slice $postSeries }}
+    {{ end }}
+    {{ if in $postSeries $series }}
+<article class="content-margin recent-post">
+  {{ .Content }}
+</article>
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ end }}
