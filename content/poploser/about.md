@@ -9,6 +9,7 @@ Pop Loser is a collection of half-thoughts, links and mixtapes sorta about techn
 ==Collected:== [Vol. 1](/poploser/vol1), [Vol. 2](/poploser/vol2), [Vol. 3](/poploser/vol3), [Vol. 4](/poploser/vol4), [Vol. 5](/poploser/vol4).  
 ==Also:== [Mixtapes](/mixtapes), [RSS](TKTK), [Podcast](TKTK). 
 
+
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
 
 #### Previously.
