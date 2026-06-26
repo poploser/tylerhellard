@@ -5,10 +5,9 @@ title: "About Pop Loser"
 #### Pop Loser.
 *A journal of innumerable confusions.* 
 
-Pop Loser is a collection of half-thoughts, links and mixtapes sorta about technology, media and culture. [Volume 6](/poploser/) is now in progress.  
+Pop Loser is a collection of half-thoughts, links and mixtapes sorta about technology, media, arts and culture. [Volume 6](/poploser/) is now in progress.  
 ==Collected:== [Vol. 1](/poploser/vol1), [Vol. 2](/poploser/vol2), [Vol. 3](/poploser/vol3), [Vol. 4](/poploser/vol4), [Vol. 5](/poploser/vol4).  
-==Also:== [Mixtapes](/mixtapes), [RSS](TKTK), [Podcast](TKTK). 
-
+==Also:== [Mixtapes](/mixtapes/), [RSS](/feed.xml), [Podcast](https://media.rss.com/podloser/feed.xml). 
 
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
 

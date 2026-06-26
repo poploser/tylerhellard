@@ -214,7 +214,7 @@ mark.mark-color-4 {
   border: 15px solid #333;
   padding: 20px;
   margin: 0 0 90px 0 !important;
-  color: #EA1889;
+  color: #666;
   font-weight: 900;
 }
 
@@ -261,3 +261,35 @@ article a.podcast-link:hover {
   height: 30%;
 }
 
+/* Remove all link styling from footer icons */
+footer a.footer,
+footer a.footer:link,
+footer a.footer:visited,
+footer a.footer:hover,
+footer a.footer:active {
+  color: inherit !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+  padding: 0 !important;
+  margin: 0 3px !important;
+  font-weight: 400 !important;
+  background: none !important;
+  opacity: 70%;
+}
+
+footer a.footer i {
+  font-size: 1.0em;
+}
+
+footer {
+  border-top: 1px #ccc solid; 
+  padding: 20px;
+  text-align: left !important;
+}
+
+/* Left align footer article */
+footer article {
+  text-align: left !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+}

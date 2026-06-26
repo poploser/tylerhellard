@@ -17,7 +17,7 @@ _M∗A∗S∗H_ has a [fraught history with canned laughter](https://www.mashfaq
 
 [Klosterman](https://openlibrary.org/works/OL5844635W/Eating_the_dinosaur?edition=key:/books/OL23229770M) on laugh tracks: ==❝Perhaps this seems like a shallow complaint to you. Perhaps you think that railing against canned laughter is like complaining that nuclear detonations are bad for the local bunny population. I don’t care. Go read a vampire novel. To me, laugh tracks are as stupid as we get. \[...\] Cheers will be repeated forever, as will the unseen people guffawing at its barroom banter. And I will always notice this, and it will never become reassuring or quaint. It will always seem stupid, because canned laughter represents the worst qualities of insecure people.❞==
 
-Now that I’ve seen the show in its purest form, I will go to the grave insisting it is the only way *M∗A∗S∗H* can be watched. Cancel your Disney+ until this superior version widely available. I feel as strongly about this as anything and will spend the rest of my days dying on this hill with the zeal of an obsessed and deranged subredditor. ==Previously:== [Best Care Anywhere](TKTK), a mixtape. 
+Now that I’ve seen the show in its purest form, I will go to the grave insisting it is the only way *M∗A∗S∗H* can be watched. Cancel your Disney+ until this superior version widely available. I feel as strongly about this as anything and will spend the rest of my days dying on this hill with the zeal of an obsessed and deranged subredditor. ==Previously:== [Best Care Anywhere](/mixtapes/), a mixtape. 
 
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
 

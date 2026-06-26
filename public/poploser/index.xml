@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pop Loser on Tyler Hellard</title>
-    <link>//localhost:8080/poploser/</link>
+    <link>//localhost:1313/poploser/</link>
     <description>Recent content in Pop Loser on Tyler Hellard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>tylerc@spincity.org (Tyler Hellard)</managingEditor>
     <webMaster>tylerc@spincity.org (Tyler Hellard)</webMaster>
     
-    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:8080/poploser/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/poploser/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pop Loser Vol. 1</title>
-      <link>//localhost:8080/poploser/vol1/</link>
+      <link>//localhost:1313/poploser/vol1/</link>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/poploser/vol1/</guid>
+      <guid>//localhost:1313/poploser/vol1/</guid>
       <description>
 
 
@@ -58,12 +58,12 @@
     
     <item>
       <title>Pop Loser Vol. 5</title>
-      <link>//localhost:8080/poploser/vol5/</link>
+      <link>//localhost:1313/poploser/vol5/</link>
       <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/poploser/vol5/</guid>
+      <guid>//localhost:1313/poploser/vol5/</guid>
       <description>
 
 
@@ -120,12 +120,12 @@
     
     <item>
       <title>Pop Loser Vol. 4</title>
-      <link>//localhost:8080/poploser/vol4/</link>
+      <link>//localhost:1313/poploser/vol4/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/poploser/vol4/</guid>
+      <guid>//localhost:1313/poploser/vol4/</guid>
       <description>
 
 
@@ -182,12 +182,12 @@
     
     <item>
       <title>Pop Loser Vol. 3</title>
-      <link>//localhost:8080/poploser/vol3/</link>
+      <link>//localhost:1313/poploser/vol3/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/poploser/vol3/</guid>
+      <guid>//localhost:1313/poploser/vol3/</guid>
       <description>
 
 
@@ -228,12 +228,12 @@
     
     <item>
       <title>Pop Loser Vol. 2</title>
-      <link>//localhost:8080/poploser/vol2/</link>
+      <link>//localhost:1313/poploser/vol2/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/poploser/vol2/</guid>
+      <guid>//localhost:1313/poploser/vol2/</guid>
       <description>
 
 
@@ -306,12 +306,12 @@
     
     <item>
       <title>About Pop Loser</title>
-      <link>//localhost:8080/poploser/about/</link>
+      <link>//localhost:1313/poploser/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/poploser/about/</guid>
+      <guid>//localhost:1313/poploser/about/</guid>
       <description>
 
 
@@ -329,9 +329,9 @@
 &lt;/h4&gt;
 
 &lt;p&gt;&lt;em&gt;A journal of innumerable confusions.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Pop Loser is a collection of half-thoughts, links and mixtapes sorta about technology, media and culture. &lt;a href=&#34;//localhost:8080/poploser/&#34;&gt;Volume 6&lt;/a&gt; is now in progress.&lt;br&gt;
-&lt;mark&gt;Collected:&lt;/mark&gt; &lt;a href=&#34;//localhost:8080/poploser/vol1&#34;&gt;Vol. 1&lt;/a&gt;, &lt;a href=&#34;//localhost:8080/poploser/vol2&#34;&gt;Vol. 2&lt;/a&gt;, &lt;a href=&#34;//localhost:8080/poploser/vol3&#34;&gt;Vol. 3&lt;/a&gt;, &lt;a href=&#34;//localhost:8080/poploser/vol4&#34;&gt;Vol. 4&lt;/a&gt;, &lt;a href=&#34;//localhost:8080/poploser/vol4&#34;&gt;Vol. 5&lt;/a&gt;.&lt;br&gt;
-&lt;mark&gt;Also:&lt;/mark&gt; &lt;a href=&#34;//localhost:8080/mixtapes&#34;&gt;Mixtapes&lt;/a&gt;, &lt;a href=&#34;TKTK&#34;&gt;RSS&lt;/a&gt;, &lt;a href=&#34;TKTK&#34;&gt;Podcast&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pop Loser is a collection of half-thoughts, links and mixtapes sorta about technology, media, arts and culture. &lt;a href=&#34;//localhost:1313/poploser/&#34;&gt;Volume 6&lt;/a&gt; is now in progress.&lt;br&gt;
+&lt;mark&gt;Collected:&lt;/mark&gt; &lt;a href=&#34;//localhost:1313/poploser/vol1&#34;&gt;Vol. 1&lt;/a&gt;, &lt;a href=&#34;//localhost:1313/poploser/vol2&#34;&gt;Vol. 2&lt;/a&gt;, &lt;a href=&#34;//localhost:1313/poploser/vol3&#34;&gt;Vol. 3&lt;/a&gt;, &lt;a href=&#34;//localhost:1313/poploser/vol4&#34;&gt;Vol. 4&lt;/a&gt;, &lt;a href=&#34;//localhost:1313/poploser/vol4&#34;&gt;Vol. 5&lt;/a&gt;.&lt;br&gt;
+&lt;mark&gt;Also:&lt;/mark&gt; &lt;a href=&#34;//localhost:1313/mixtapes/&#34;&gt;Mixtapes&lt;/a&gt;, &lt;a href=&#34;//localhost:1313/feed.xml&#34;&gt;RSS&lt;/a&gt;, &lt;a href=&#34;https://media.rss.com/podloser/feed.xml&#34;&gt;Podcast&lt;/a&gt;.&lt;/p&gt;
 
 
 
@@ -369,12 +369,12 @@
     
     <item>
       <title>Pop Loser Vol. 6</title>
-      <link>//localhost:8080/poploser/vol6/</link>
+      <link>//localhost:1313/poploser/vol6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/poploser/vol6/</guid>
+      <guid>//localhost:1313/poploser/vol6/</guid>
       <description>
 
 

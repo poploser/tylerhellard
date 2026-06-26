@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pop Loser on Tyler Hellard</title>
-    <link>//localhost:8080/categories/pop-loser/</link>
+    <link>//localhost:1313/categories/pop-loser/</link>
     <description>Recent content in Pop Loser on Tyler Hellard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>tylerc@spincity.org (Tyler Hellard)</managingEditor>
     <webMaster>tylerc@spincity.org (Tyler Hellard)</webMaster>
     
-    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:8080/categories/pop-loser/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/pop-loser/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pop Loser Vol. 6, No. 6 - Dumb and strange in the Fediverse of madness.</title>
-      <link>//localhost:8080/posts/vol6no6/</link>
+      <link>//localhost:1313/posts/vol6no6/</link>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/posts/vol6no6/</guid>
+      <guid>//localhost:1313/posts/vol6no6/</guid>
       <description>
 
 
@@ -30,12 +30,12 @@
     
     <item>
       <title>Pop Loser Vol. 6, No. 5 - Don&#39;t yuk-yuk my yum.</title>
-      <link>//localhost:8080/posts/vol6no5/</link>
+      <link>//localhost:1313/posts/vol6no5/</link>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/posts/vol6no5/</guid>
+      <guid>//localhost:1313/posts/vol6no5/</guid>
       <description>
 
 
@@ -48,12 +48,12 @@
     
     <item>
       <title>Pop Loser Vol. 6, No. 4 - The Once and Future Cling (a mixtape)</title>
-      <link>//localhost:8080/posts/vol6no4/</link>
+      <link>//localhost:1313/posts/vol6no4/</link>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/posts/vol6no4/</guid>
+      <guid>//localhost:1313/posts/vol6no4/</guid>
       <description>
 
 
@@ -67,12 +67,12 @@
     
     <item>
       <title>Pop Loser Vol. 6, No. 3 - A touch of indiegestion</title>
-      <link>//localhost:8080/posts/vol6no3/</link>
+      <link>//localhost:1313/posts/vol6no3/</link>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/posts/vol6no3/</guid>
+      <guid>//localhost:1313/posts/vol6no3/</guid>
       <description>
 
 
@@ -85,12 +85,12 @@
     
     <item>
       <title>Pop Loser Vol. 6, No. 2 - The Pennington Pop Explosion (a mixtape)</title>
-      <link>//localhost:8080/posts/vol6no2/</link>
+      <link>//localhost:1313/posts/vol6no2/</link>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/posts/vol6no2/</guid>
+      <guid>//localhost:1313/posts/vol6no2/</guid>
       <description>
 
 
@@ -108,12 +108,12 @@
     
     <item>
       <title>Pop Loser Vol. 6, No. 1 - No good read goes unpublished</title>
-      <link>//localhost:8080/posts/vol6no1/</link>
+      <link>//localhost:1313/posts/vol6no1/</link>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/posts/vol6no1/</guid>
+      <guid>//localhost:1313/posts/vol6no1/</guid>
       <description>
 
 

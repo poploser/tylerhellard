@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tyler Hellard</title>
-    <link>//localhost:8080/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Tyler Hellard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>tylerc@spincity.org (Tyler Hellard)</managingEditor>
     <webMaster>tylerc@spincity.org (Tyler Hellard)</webMaster>
     
-    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:8080/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pop Loser Vol. 6, No. 6 - Dumb and strange in the Fediverse of madness.</title>
-      <link>//localhost:8080/posts/vol6no6/</link>
+      <link>//localhost:1313/posts/vol6no6/</link>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/posts/vol6no6/</guid>
+      <guid>//localhost:1313/posts/vol6no6/</guid>
       <description>
 
 
@@ -30,12 +30,12 @@
     
     <item>
       <title>Pop Loser Vol. 6, No. 5 - Don&#39;t yuk-yuk my yum.</title>
-      <link>//localhost:8080/posts/vol6no5/</link>
+      <link>//localhost:1313/posts/vol6no5/</link>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/posts/vol6no5/</guid>
+      <guid>//localhost:1313/posts/vol6no5/</guid>
       <description>
 
 
@@ -48,12 +48,12 @@
     
     <item>
       <title>Pop Loser Vol. 6, No. 4 - The Once and Future Cling (a mixtape)</title>
-      <link>//localhost:8080/posts/vol6no4/</link>
+      <link>//localhost:1313/posts/vol6no4/</link>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/posts/vol6no4/</guid>
+      <guid>//localhost:1313/posts/vol6no4/</guid>
       <description>
 
 
@@ -67,12 +67,12 @@
     
     <item>
       <title>Pop Loser Vol. 6, No. 3 - A touch of indiegestion</title>
-      <link>//localhost:8080/posts/vol6no3/</link>
+      <link>//localhost:1313/posts/vol6no3/</link>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/posts/vol6no3/</guid>
+      <guid>//localhost:1313/posts/vol6no3/</guid>
       <description>
 
 
@@ -85,39 +85,55 @@
     
     <item>
       <title>Pop Loser Vol. 6, No. 2 - The Pennington Pop Explosion (a mixtape)</title>
-      <link>//localhost:8080/posts/vol6no2/</link>
+      <link>//localhost:1313/posts/vol6no2/</link>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/posts/vol6no2/</guid>
+      <guid>//localhost:1313/posts/vol6no2/</guid>
       <description>
 
 
-&lt;h4&gt;The Pennington Pop Explosion.&lt;/h4&gt;
+&lt;h4 class=&#34;header-anchor-wrapper&#34;&gt;The Pennington Pop Explosion.
+  &lt;a href=&#34;#the-pennington-pop-explosion&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p&gt;&lt;em&gt;Vol. 6, No. 2&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;mark&gt;Featuring: Tegan &amp;amp; Sara, The Hardship Post, Odds, Eric’s Trip, The Flashing Lights, Sloan, Doughboys, Joel Plaskett, Night Committee, Sam Roberts, SNFU, Rheostatics, The Pursuit of Happiness, Julie Doiron, Headstones, and The New Pornographers.&lt;/mark&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;iframe src=&#34;https://player.rss.com/podloser/2930757?theme=light&amp;v=2&amp;share=false&amp;about=false&#34; width=&#34;100%&#34; height=&#34;202px&#34; title=&#34;The Pennington Pop Explosion&#34; frameBorder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/podloser/2930757/&#34;&gt;The Pennington Pop Explosion | RSS.com&lt;/a&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;Cassette via &lt;a href=&#34;http://www.tapedeck.org/&#34;&gt;TapeDeck.org&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;h3&gt;&lt;i class=&#34;fa-solid fa-skull-crossbones&#34;&gt;&lt;/i&gt; &lt;i class=&#34;fa-solid fa-skull-crossbones&#34;&gt;&lt;/i&gt; &lt;i class=&#34;fa-solid fa-skull-crossbones&#34;&gt;&lt;/i&gt;&lt;/h3&gt;</description>
+&lt;p&gt;&lt;mark&gt;Featuring: Tegan &amp;amp; Sara, The Hardship Post, Odds, Eric’s Trip, The Flashing Lights, Sloan, Doughboys, Joel Plaskett, Night Committee, Sam Roberts, SNFU, Rheostatics, The Pursuit of Happiness, Julie Doiron, Headstones, and The New Pornographers.&lt;/mark&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Pop Loser Vol. 6, No. 1 - No good read goes unpublished</title>
-      <link>//localhost:8080/posts/vol6no1/</link>
+      <link>//localhost:1313/posts/vol6no1/</link>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
       
       
       <author>tylerc@spincity.org (Tyler Hellard)</author>
-      <guid>//localhost:8080/posts/vol6no1/</guid>
+      <guid>//localhost:1313/posts/vol6no1/</guid>
       <description>
 
 
-&lt;h4&gt;No good read goes unpublished.&lt;/h4&gt;
+&lt;h4 class=&#34;header-anchor-wrapper&#34;&gt;No good read goes unpublished.
+  &lt;a href=&#34;#no-good-read-goes-unpublished&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p&gt;&lt;em&gt;Vol. 6, No. 1&lt;/em&gt;&lt;/p&gt;
 &lt;img src=&#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1781926087/Pop_Loser_Vol._6_No._1_ocxo8i.png&#34; alt=&#34;Pop Loser Vol. 6, No. 1&#34; class=&#34;art&#34;&gt;

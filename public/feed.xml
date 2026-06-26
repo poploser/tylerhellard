@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tyler Hellard</title>
-    <link>//localhost:8080/</link>
+    <link>//localhost:1313/</link>
     <description>Tyler Hellard</description>
     <language>en</language>
-    <atom:link href="//localhost:8080/" rel="self" type="application/rss+xml"/>
+    <atom:link href="//localhost:1313/" rel="self" type="application/rss+xml"/>
     
     <item>
       <title>Pop Loser Vol. 1</title>
-      <link>//localhost:8080/poploser/vol1/</link>
+      <link>//localhost:1313/poploser/vol1/</link>
       <pubDate>Fri, 19 Jun 2026 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/poploser/vol1/</guid>
+      <guid>//localhost:1313/poploser/vol1/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;pop-loser-vol-1&amp;#34; --&amp;gt;
 
@@ -1125,168 +1125,10 @@
     </item>
     
     <item>
-      <title>About tylerhellard.com</title>
-      <link>//localhost:8080/info/</link>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/info/</guid>
-      <description>&amp;lt;img src=&amp;#34;/tyler.jpg&amp;#34; alt=&amp;#34;Tyler Hellard at the Calgary Public Library (photo by tk)&amp;#34; class=&amp;#34;art&amp;#34;&amp;gt;
-&amp;lt;!-- end-chunk --&amp;gt;
-&amp;lt;!-- begin-chunk data-anchor=&amp;#34;about-me&amp;#34; --&amp;gt;
-
-&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;About me.
-  &amp;lt;a href=&amp;#34;#about-me&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
-&amp;lt;svg
-    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
-    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
-    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
-    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
-    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
-&amp;lt;/svg&amp;gt;
-
-&amp;lt;/a&amp;gt;
-&amp;lt;/h4&amp;gt;
-
-&amp;lt;p&amp;gt;Hi. I’m Tyler. I’m usually a professional &amp;lt;a href=&amp;#34;https://www.linkedin.com/in/tylerhellard/&amp;#34;&amp;gt;copywriter&amp;lt;/a&amp;gt;, but sometimes I write &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;other things&amp;lt;/a&amp;gt;, too. Once I wrote a &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;novel&amp;lt;/a&amp;gt; that (incredibly!) became a Canadian &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;best seller&amp;lt;/a&amp;gt; (impossibly!) eight years after it came out. Someday I&amp;amp;rsquo;ll write another one.&amp;lt;/p&amp;gt;
-&amp;lt;!-- end-chunk --&amp;gt;
-&amp;lt;!-- begin-chunk data-anchor=&amp;#34;&amp;#34; --&amp;gt;
-
-&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
-  &amp;lt;a href=&amp;#34;#&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
-&amp;lt;svg
-    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
-    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
-    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
-    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
-    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
-&amp;lt;/svg&amp;gt;
-
-&amp;lt;/a&amp;gt;
-&amp;lt;/h3&amp;gt;
-
-&amp;lt;!-- end-chunk --&amp;gt;
-&amp;lt;!-- begin-chunk data-anchor=&amp;#34;about-pop-loser&amp;#34; --&amp;gt;
-
-&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;About Pop Loser.
-  &amp;lt;a href=&amp;#34;#about-pop-loser&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
-&amp;lt;svg
-    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
-    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
-    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
-    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
-    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
-&amp;lt;/svg&amp;gt;
-
-&amp;lt;/a&amp;gt;
-&amp;lt;/h4&amp;gt;
-
-&amp;lt;p&amp;gt;Pop Loser is a blog (and, for awhile, newsletter) I&amp;amp;rsquo;ve written on and off since 2007. It&amp;amp;rsquo;s changed a lot over the years and I&amp;amp;rsquo;ve burned it all to the ground five or six times. The most recent &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;iteration&amp;lt;/a&amp;gt; is a bit esoteric, with a little writing and a lot of links, and includes &amp;amp;ldquo;&amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;mixtapes&amp;lt;/a&amp;gt;.&amp;amp;rdquo; When each volume finishes, posts are collected on an omnibus page: Vol. &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;1&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;2&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;3&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;4&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;5&amp;lt;/a&amp;gt;. Most previous versions of Pop Loser are archived in the following places: Newsletters #1–78 (unavailable), &amp;lt;a href=&amp;#34;https://web.archive.org/web/20220312222936/https://us2.campaign-archive.com/home/?u=73477be0867f67a19f1fec465&amp;amp;amp;id=f5d72195cb&amp;#34;&amp;gt;#79–97&amp;lt;/a&amp;gt;, and &amp;lt;a href=&amp;#34;https://web.archive.org/web/20200809173730/https://www.getrevue.co/profile/poploser/#archive&amp;#34;&amp;gt;#98–113&amp;lt;/a&amp;gt; (2014–2018). &amp;lt;a href=&amp;#34;https://web.archive.org/web/20240000000000*/http://poploser.org/&amp;#34;&amp;gt;Original blog&amp;lt;/a&amp;gt; (&amp;lt;a href=&amp;#34;https://web.archive.org/web/20070528205939/http://www.spincity.org/blog/&amp;#34;&amp;gt;2007&amp;lt;/a&amp;gt;–&amp;lt;a href=&amp;#34;https://web.archive.org/web/20140106063005/http://poploser.org/&amp;#34;&amp;gt;2014&amp;lt;/a&amp;gt;) and &amp;lt;a href=&amp;#34;https://poploser.tumblr.com/&amp;#34;&amp;gt;Tumblr&amp;lt;/a&amp;gt; clone (&amp;lt;a href=&amp;#34;https://poploser.tumblr.com/archive&amp;#34;&amp;gt;2010–2014&amp;lt;/a&amp;gt;). From 2019 to 2024, I probably had better things to do.&amp;lt;/p&amp;gt;
-&amp;lt;!-- end-chunk --&amp;gt;
-&amp;lt;!-- begin-chunk data-anchor=&amp;#34;&amp;#34; --&amp;gt;
-
-&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
-  &amp;lt;a href=&amp;#34;#&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
-&amp;lt;svg
-    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
-    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
-    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
-    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
-    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
-&amp;lt;/svg&amp;gt;
-
-&amp;lt;/a&amp;gt;
-&amp;lt;/h3&amp;gt;
-
-&amp;lt;!-- end-chunk --&amp;gt;
-&amp;lt;!-- begin-chunk data-anchor=&amp;#34;tech-stuff&amp;#34; --&amp;gt;
-
-&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;Tech stuff.
-  &amp;lt;a href=&amp;#34;#tech-stuff&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
-&amp;lt;svg
-    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
-    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
-    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
-    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
-    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
-&amp;lt;/svg&amp;gt;
-
-&amp;lt;/a&amp;gt;
-&amp;lt;/h4&amp;gt;
-
-&amp;lt;p&amp;gt;As of 2026, this website is powered by &amp;lt;a href=&amp;#34;https://gohugo.io/&amp;#34;&amp;gt;Hugo&amp;lt;/a&amp;gt; using a modified version of &amp;lt;a href=&amp;#34;https://kaiiiz.github.io/hugo-theme-monochrome/&amp;#34;&amp;gt;Monochrome&amp;lt;/a&amp;gt; and hosted on &amp;lt;a href=&amp;#34;https://github.com/poploser/tylerhellard.com&amp;#34;&amp;gt;GitHub&amp;lt;/a&amp;gt;. Basic stats are collected with &amp;lt;a href=&amp;#34;https://www.goatcounter.com/&amp;#34;&amp;gt;GoatCounter&amp;lt;/a&amp;gt; (with most options turned off). All content is written and edited in markdown with &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;IA Writer&amp;lt;/a&amp;gt;. Here are your &amp;lt;span style=&amp;#34;color: #fff; background: #FE5C00; padding: 0 5px;&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;RSS&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt; options: 🚒 &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;Firehose&amp;lt;/a&amp;gt; (blog posts, field notes (f.k.a. &amp;amp;ldquo;tweets&amp;amp;rdquo;), mixtapes, photos, etc.) / 📰 &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;Pop Loser&amp;lt;/a&amp;gt; (just the blog posts) / 🎧 &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;Pod Loser&amp;lt;/a&amp;gt; (a podcast feed for just the mixtapes) / 📸 &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;Photos&amp;lt;/a&amp;gt; (hi mom!) / 👾 &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;High Scores&amp;lt;/a&amp;gt; (updated personal bests on a handful of classic arcade games).&amp;lt;/p&amp;gt;
-&amp;lt;!-- end-chunk --&amp;gt;
-&amp;lt;!-- begin-chunk data-anchor=&amp;#34;&amp;#34; --&amp;gt;
-
-&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
-  &amp;lt;a href=&amp;#34;#&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
-&amp;lt;svg
-    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
-    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
-    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
-    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
-    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
-&amp;lt;/svg&amp;gt;
-
-&amp;lt;/a&amp;gt;
-&amp;lt;/h3&amp;gt;
-
-&amp;lt;!-- end-chunk --&amp;gt;
-&amp;lt;!-- begin-chunk data-anchor=&amp;#34;elsewhere&amp;#34; --&amp;gt;
-
-&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;Elsewhere.
-  &amp;lt;a href=&amp;#34;#elsewhere&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
-&amp;lt;svg
-    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
-    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
-    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
-    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
-    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
-&amp;lt;/svg&amp;gt;
-
-&amp;lt;/a&amp;gt;
-&amp;lt;/h4&amp;gt;
-
-&amp;lt;p&amp;gt;I went scorched earth on social media a few years ago, but have crept back onto &amp;lt;a href=&amp;#34;https://mstdn.ca/@poploser&amp;#34;&amp;gt;Mastodon&amp;lt;/a&amp;gt; (though I accidentally nuked all my follows and followers in a bout of Fediverse transfer stupidity in June 2026) and &amp;lt;a href=&amp;#34;https://bsky.app/&amp;#34;&amp;gt;Bluesky&amp;lt;/a&amp;gt;. Most posts to this site also filter out to those sites and sometimes I even scroll them and &amp;amp;ldquo;engage&amp;amp;rdquo; with &amp;amp;ldquo;people.&amp;amp;rdquo;&amp;lt;/p&amp;gt;
-&amp;lt;!-- end-chunk --&amp;gt;
-&amp;lt;!-- begin-chunk data-anchor=&amp;#34;&amp;#34; --&amp;gt;
-
-&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
-  &amp;lt;a href=&amp;#34;#&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
-&amp;lt;svg
-    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
-    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
-    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
-    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
-    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
-&amp;lt;/svg&amp;gt;
-
-&amp;lt;/a&amp;gt;
-&amp;lt;/h3&amp;gt;
-
-&amp;lt;!-- end-chunk --&amp;gt;
-&amp;lt;!-- begin-chunk data-anchor=&amp;#34;copyright-credits-etc&amp;#34; --&amp;gt;
-
-&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;Copyright, credits, etc.
-  &amp;lt;a href=&amp;#34;#copyright-credits-etc&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
-&amp;lt;svg
-    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
-    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
-    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
-    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
-    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
-&amp;lt;/svg&amp;gt;
-
-&amp;lt;/a&amp;gt;
-&amp;lt;/h4&amp;gt;
-
-&amp;lt;p&amp;gt;All original content on this site is available via the &amp;lt;a href=&amp;#34;https://creativecommons.org/licenses/by-nc-sa/4.0/&amp;#34;&amp;gt;CC BY-NC-SA 4.0&amp;lt;/a&amp;gt; license, with the exception of personal photos that show other people, which are “All Rights Reserved.” If you’re a link blogger, don&amp;amp;rsquo;t feel obligated to “h/t” or “via” this site as it’s not something I do very often. Any headshots of me (including the one at the top of this page) are by &amp;lt;a href=&amp;#34;https://www.facebook.com/uppimage/&amp;#34;&amp;gt;Monique de St. Croix&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-</description>
-    </item>
-    
-    <item>
       <title>Pop Loser Vol. 6, No. 6 - Dumb and strange in the Fediverse of madness.</title>
-      <link>//localhost:8080/posts/vol6no6/</link>
+      <link>//localhost:1313/posts/vol6no6/</link>
       <pubDate>Thu, 11 Jun 2026 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/posts/vol6no6/</guid>
+      <guid>//localhost:1313/posts/vol6no6/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;dumb--strange-in-the-fediverse-of-madness&amp;#34; --&amp;gt;
 
@@ -1360,9 +1202,9 @@
     
     <item>
       <title>Pop Loser Vol. 6, No. 5 - Don&#39;t yuk-yuk my yum.</title>
-      <link>//localhost:8080/posts/vol6no5/</link>
+      <link>//localhost:1313/posts/vol6no5/</link>
       <pubDate>Thu, 28 May 2026 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/posts/vol6no5/</guid>
+      <guid>//localhost:1313/posts/vol6no5/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;dont-yuk-yuk-my-yum&amp;#34; --&amp;gt;
 
@@ -1373,7 +1215,7 @@
 &amp;lt;p&amp;gt;I’ve watched the entirety of &amp;lt;em&amp;gt;M∗A∗S∗H&amp;lt;/em&amp;gt; (the worst show for those of us who write everything in markdown) about a half dozen times (more for great episodes like “Dear Sigmund,” less for that one episode where BJ cheats on Peg, which I still haven’t forgiven him (or the show’s writers) for), but have only just recently done the complete 11-season run &amp;lt;em&amp;gt;without the laugh track&amp;lt;/em&amp;gt;.&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;M∗A∗S∗H&amp;lt;/em&amp;gt; has a &amp;lt;a href=&amp;#34;https://www.mashfaq.com/why-did-mash-have-canned-laughter/&amp;#34;&amp;gt;fraught history with canned laughter&amp;lt;/a&amp;gt;. The network wanted it, the people making the show did not, the compromise was using it except during OR scenes. In the UK, the BBC opted to broadcast the show without the laughs (except for one notorious incident where they mistakenly aired the wrong version and had to deal with a number of very British complaints).&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://openlibrary.org/works/OL5844635W/Eating_the_dinosaur?edition=key:/books/OL23229770M&amp;#34;&amp;gt;Klosterman&amp;lt;/a&amp;gt; on laugh tracks: &amp;lt;mark&amp;gt;❝Perhaps this seems like a shallow complaint to you. Perhaps you think that railing against canned laughter is like complaining that nuclear detonations are bad for the local bunny population. I don’t care. Go read a vampire novel. To me, laugh tracks are as stupid as we get. [&amp;amp;hellip;] Cheers will be repeated forever, as will the unseen people guffawing at its barroom banter. And I will always notice this, and it will never become reassuring or quaint. It will always seem stupid, because canned laughter represents the worst qualities of insecure people.❞&amp;lt;/mark&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Now that I’ve seen the show in its purest form, I will go to the grave insisting it is the only way &amp;lt;em&amp;gt;M∗A∗S∗H&amp;lt;/em&amp;gt; can be watched. Cancel your Disney&#43; until this superior version widely available. I feel as strongly about this as anything and will spend the rest of my days dying on this hill with the zeal of an obsessed and deranged subredditor. &amp;lt;mark&amp;gt;Previously:&amp;lt;/mark&amp;gt; &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;Best Care Anywhere&amp;lt;/a&amp;gt;, a mixtape.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Now that I’ve seen the show in its purest form, I will go to the grave insisting it is the only way &amp;lt;em&amp;gt;M∗A∗S∗H&amp;lt;/em&amp;gt; can be watched. Cancel your Disney&#43; until this superior version widely available. I feel as strongly about this as anything and will spend the rest of my days dying on this hill with the zeal of an obsessed and deranged subredditor. &amp;lt;mark&amp;gt;Previously:&amp;lt;/mark&amp;gt; &amp;lt;a href=&amp;#34;/mixtapes/&amp;#34;&amp;gt;Best Care Anywhere&amp;lt;/a&amp;gt;, a mixtape.&amp;lt;/p&amp;gt;
 &amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading&amp;#34; --&amp;gt;
 
@@ -1429,9 +1271,9 @@
     
     <item>
       <title>Pop Loser Vol. 6, No. 4 - The Once and Future Cling (a mixtape)</title>
-      <link>//localhost:8080/posts/vol6no4/</link>
+      <link>//localhost:1313/posts/vol6no4/</link>
       <pubDate>Sat, 16 May 2026 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/posts/vol6no4/</guid>
+      <guid>//localhost:1313/posts/vol6no4/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;the-once-and-future-cling&amp;#34; --&amp;gt;
 
@@ -1446,9 +1288,9 @@
     
     <item>
       <title>Pop Loser Vol. 6, No. 3 - A touch of indiegestion</title>
-      <link>//localhost:8080/posts/vol6no3/</link>
+      <link>//localhost:1313/posts/vol6no3/</link>
       <pubDate>Thu, 14 May 2026 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/posts/vol6no3/</guid>
+      <guid>//localhost:1313/posts/vol6no3/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;a-touch-of-indiegestion&amp;#34; --&amp;gt;
 
@@ -1513,13 +1355,24 @@
     
     <item>
       <title>Pop Loser Vol. 6, No. 2 - The Pennington Pop Explosion (a mixtape)</title>
-      <link>//localhost:8080/posts/vol6no2/</link>
+      <link>//localhost:1313/posts/vol6no2/</link>
       <pubDate>Tue, 05 May 2026 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/posts/vol6no2/</guid>
+      <guid>//localhost:1313/posts/vol6no2/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;the-pennington-pop-explosion&amp;#34; --&amp;gt;
 
-&amp;lt;h4&amp;gt;The Pennington Pop Explosion.&amp;lt;/h4&amp;gt;
+&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;The Pennington Pop Explosion.
+  &amp;lt;a href=&amp;#34;#the-pennington-pop-explosion&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h4&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Vol. 6, No. 2&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;&amp;lt;mark&amp;gt;Featuring: Tegan &amp;amp;amp; Sara, The Hardship Post, Odds, Eric’s Trip, The Flashing Lights, Sloan, Doughboys, Joel Plaskett, Night Committee, Sam Roberts, SNFU, Rheostatics, The Pursuit of Happiness, Julie Doiron, Headstones, and The New Pornographers.&amp;lt;/mark&amp;gt;&amp;lt;/p&amp;gt;
@@ -1528,20 +1381,42 @@
 &amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading&amp;#34; --&amp;gt;
 
-&amp;lt;h3&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/h3&amp;gt;
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
 
 </description>
     </item>
     
     <item>
       <title>Pop Loser Vol. 6, No. 1 - No good read goes unpublished</title>
-      <link>//localhost:8080/posts/vol6no1/</link>
+      <link>//localhost:1313/posts/vol6no1/</link>
       <pubDate>Wed, 29 Apr 2026 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/posts/vol6no1/</guid>
+      <guid>//localhost:1313/posts/vol6no1/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;no-good-read-goes-unpublished&amp;#34; --&amp;gt;
 
-&amp;lt;h4&amp;gt;No good read goes unpublished.&amp;lt;/h4&amp;gt;
+&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;No good read goes unpublished.
+  &amp;lt;a href=&amp;#34;#no-good-read-goes-unpublished&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h4&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Vol. 6, No. 1&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1781926087/Pop_Loser_Vol._6_No._1_ocxo8i.png&amp;#34; alt=&amp;#34;Pop Loser Vol. 6, No. 1&amp;#34; class=&amp;#34;art&amp;#34;&amp;gt;
@@ -1553,35 +1428,101 @@
 &amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading&amp;#34; --&amp;gt;
 
-&amp;lt;h3&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/h3&amp;gt;
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1781926225/tkARTINFO_mbu31w.jpg&amp;#34; alt=&amp;#34;Untitled (Cockpit), Tim Pitsiulak, 2008&amp;#34; class=&amp;#34;art&amp;#34;&amp;gt;&amp;lt;a href=&amp;#34;https://www.gallery.ca/collection/artwork/untitled-cockpit&amp;#34;&amp;gt;Untitled (Cockpit)&amp;lt;/a&amp;gt;, Tim Pitsiulak, 2008&amp;lt;/p&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading-1&amp;#34; --&amp;gt;
 
-&amp;lt;h3&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/h3&amp;gt;
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading-1&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
 
 &amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;confusions&amp;#34; --&amp;gt;
 
-&amp;lt;h4&amp;gt;Confusions.&amp;lt;/h4&amp;gt;
+&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;Confusions.
+  &amp;lt;a href=&amp;#34;#confusions&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h4&amp;gt;
 
 &amp;lt;p&amp;gt;🤖 &amp;lt;a href=&amp;#34;https://www.theideasletter.org/essay/the-social-edge-of-intelligence/&amp;#34;&amp;gt;On AI and thinking and what we’re giving away&amp;lt;/a&amp;gt;. &amp;lt;mark&amp;gt;&amp;amp;ldquo;The underlying intelligence of a large language model isn’t a function of its architecture, its parameter count, or the volume of compute thrown at its training. It is not even about the training data. It is a function of the social complexity of the civilization whose language it digested.&amp;amp;quot;&amp;lt;/mark&amp;gt; 🗄️ All 8 issues of Fawcett’s &amp;lt;em&amp;gt;&amp;lt;a href=&amp;#34;https://archive.org/details/fawcett-americas-greatest-comics&amp;#34;&amp;gt;America’s Greatest Comics&amp;lt;/a&amp;gt;&amp;lt;/em&amp;gt;. / &amp;lt;a href=&amp;#34;https://urubos.github.io/efa-site/&amp;#34;&amp;gt;Extrapolated Futures Archive&amp;lt;/a&amp;gt;, connecting real-world things to the science fiction stories that thought of them first. / &amp;lt;a href=&amp;#34;https://www.worseonpurpose.com/&amp;#34;&amp;gt;Worse On Purpose&amp;lt;/a&amp;gt;, corporate autopsies on the brands you trust. / &amp;lt;a href=&amp;#34;https://vimeo.com/866218283&amp;#34;&amp;gt;Melomaniac&amp;lt;/a&amp;gt;, a documentary about Aadam Jacobs, who surreptitiously (but not really) &amp;lt;a href=&amp;#34;https://archive.org/details/@aadam_jacobs_collection/uploads?sort=-downloads&amp;amp;and%5B%5D=mediatype:%22audio%22&amp;#34;&amp;gt;recorded over 10,000 Chicago area concerts&amp;lt;/a&amp;gt;. / &amp;lt;a href=&amp;#34;https://www.monodivision.com/&amp;#34;&amp;gt;Archivist Browser&amp;lt;/a&amp;gt;, a mobile browser for viewing media files on the Internet Archive, such as over 10,000 Chicago area concerts. / ✉️ We need fewer influencers and &amp;lt;a href=&amp;#34;https://www.newyorker.com/humor/shouts-murmurs/we-need-fewer-influencers-and-more-bullshit-e-mail-jobs&amp;#34;&amp;gt;more bullshit e-mail jobs&amp;lt;/a&amp;gt;. &amp;lt;mark&amp;gt;&amp;amp;ldquo;There’s still time to build a healthy pipeline and train the future leaders of bullshit e-mail jobs to join the existing group of rock stars. It starts at home. Parents, when your child is on their phone at the dinner table, ignoring you, make sure that they’re scrolling Outlook, not Reddit.&amp;amp;quot;&amp;lt;/mark&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading-2&amp;#34; --&amp;gt;
 
-&amp;lt;h3&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/h3&amp;gt;
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading-2&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
 
 &amp;lt;iframe width=&amp;#34;560&amp;#34; height=&amp;#34;315&amp;#34; src=&amp;#34;https://www.youtube.com/embed/IhgrkjSyrJU?si=jBEvR7AKmIoNXycr&amp;#34; title=&amp;#34;YouTube video player&amp;#34; frameborder=&amp;#34;0&amp;#34; allow=&amp;#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&amp;#34; referrerpolicy=&amp;#34;strict-origin-when-cross-origin&amp;#34; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
 &amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading-3&amp;#34; --&amp;gt;
 
-&amp;lt;h3&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/h3&amp;gt;
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading-3&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
 
 &amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;extensions&amp;#34; --&amp;gt;
 
-&amp;lt;h4&amp;gt;Extensions.&amp;lt;/h4&amp;gt;
+&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;Extensions.
+  &amp;lt;a href=&amp;#34;#extensions&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h4&amp;gt;
 
 &amp;lt;p&amp;gt;📺 &amp;lt;a href=&amp;#34;https://wantmymtv.vercel.app/player.html?channel=1stday&amp;#34;&amp;gt;MTV Rewind&amp;lt;/a&amp;gt;. / &amp;lt;a href=&amp;#34;https://vhs.texs.org/en/slipcover&amp;#34;&amp;gt;VHS slipcover maker&amp;lt;/a&amp;gt;. / &amp;lt;a href=&amp;#34;https://channelsurfer.tv/&amp;#34;&amp;gt;Channel Surfer&amp;lt;/a&amp;gt;. / 🧑‍💻 &amp;lt;a href=&amp;#34;https://tools.rmv.fyi/&amp;#34;&amp;gt;delphitools&amp;lt;/a&amp;gt;, a collection of small, low stakes and low effort tools. / &amp;lt;a href=&amp;#34;https://tangiblemediacollection.com/&amp;#34;&amp;gt;Tangible Media&amp;lt;/a&amp;gt;, a historical collection of information storage technology. / &amp;lt;a href=&amp;#34;https://wikicity.app/&amp;#34;&amp;gt;WikiCity&amp;lt;/a&amp;gt;. / &amp;lt;a href=&amp;#34;https://freakpages.org/&amp;#34;&amp;gt;Freak Pages&amp;lt;/a&amp;gt;, esoteric articles from Wikipedia and other places. / &amp;lt;a href=&amp;#34;https://friendster.com/&amp;#34;&amp;gt;Friendster&amp;lt;/a&amp;gt; is back and less useful than ever.&amp;lt;/p&amp;gt;
 </description>
@@ -1589,9 +1530,9 @@
     
     <item>
       <title>Pop Loser Vol. 5</title>
-      <link>//localhost:8080/poploser/vol5/</link>
+      <link>//localhost:1313/poploser/vol5/</link>
       <pubDate>Mon, 08 Sep 2025 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/poploser/vol5/</guid>
+      <guid>//localhost:1313/poploser/vol5/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;pop-loser-vol-5&amp;#34; --&amp;gt;
 
@@ -2517,9 +2458,9 @@
     
     <item>
       <title>Pop Loser Vol. 4</title>
-      <link>//localhost:8080/poploser/vol4/</link>
+      <link>//localhost:1313/poploser/vol4/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/poploser/vol4/</guid>
+      <guid>//localhost:1313/poploser/vol4/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;pop-loser-vol-4&amp;#34; --&amp;gt;
 
@@ -3698,9 +3639,9 @@ Loretta Swit &amp;lt;a href=&amp;#34;https://www.nytimes.com/2025/05/30/obituari
     
     <item>
       <title>Pop Loser Vol. 3</title>
-      <link>//localhost:8080/poploser/vol3/</link>
+      <link>//localhost:1313/poploser/vol3/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/poploser/vol3/</guid>
+      <guid>//localhost:1313/poploser/vol3/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;pop-loser-vol-3&amp;#34; --&amp;gt;
 
@@ -4466,9 +4407,9 @@ One of the time-sucking children finally complained — he had been waiting mont
     
     <item>
       <title>Pop Loser Vol. 2</title>
-      <link>//localhost:8080/poploser/vol2/</link>
+      <link>//localhost:1313/poploser/vol2/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/poploser/vol2/</guid>
+      <guid>//localhost:1313/poploser/vol2/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;pop-loser-vol-2&amp;#34; --&amp;gt;
 
@@ -5130,10 +5071,191 @@ One of the time-sucking children finally complained — he had been waiting mont
     </item>
     
     <item>
-      <title>Pop Loser Vol. 6</title>
-      <link>//localhost:8080/poploser/vol6/</link>
+      <title>Some Writing</title>
+      <link>//localhost:1313/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/poploser/vol6/</guid>
+      <guid>//localhost:1313/writing/</guid>
+      <description>&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;some-writing&amp;#34; --&amp;gt;
+
+&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;Some writing.
+  &amp;lt;a href=&amp;#34;#some-writing&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h4&amp;gt;
+
+&amp;lt;p&amp;gt;I was the tech critic at &amp;lt;em&amp;gt;This Magazine&amp;lt;/em&amp;gt; for six years. Some of those columns are here, along with select published pieces from recent(ish) years.&amp;lt;/p&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://www.cbc.ca/arts/tyler-hellard-dreams-of-a-fortress-of-solitude-where-he-can-bury-himself-in-clutter-9.7151306&amp;#34;&amp;gt;Where I Write: Tyler Hellard Dreams of a Fortress of Solitude Where He Can Bury Himself in Clutter&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;CBC Arts&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://issuu.com/redpointmedia/docs/create_calgary_2025t/42&amp;#34;&amp;gt;Here Be Dragons&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;Create Calgary&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://canadiangeographic.ca/articles/rock-star-the-fast-life-and-tragic-death-of-teacup-rock/&amp;#34;&amp;gt;Rock, Star: The Fast Life and Tragic Death of Teacup Rock&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;Canadian Geographic&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://louderthanten.com/coax/on-productivity&amp;#34;&amp;gt;On Productivity&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;Coax&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://this.org/2018/02/07/defining-canada-by-the-language-of-silicon-valley/&amp;#34;&amp;gt;Expression for the World-View: Defining Canada by the Language of Silicon Valley&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;This Magazine&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://thewalrus.ca/is-facebook-good-for-the-world/&amp;#34;&amp;gt;Is Facebook Good For the World?&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;The Walrus&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://this.org/2017/12/04/the-gadgets-we-rely-on-are-intrinsically-changing-us/&amp;#34;&amp;gt;The Shape of Water&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;This Magazine&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://www.cbc.ca/radio/the180/what-not-to-love-about-meryl-streep-s-speech-more-on-ptsd-and-violence-and-reform-politics-not-elections-1.3930068/newspapers-are-doomed-because-people-don-t-want-news-they-want-community-1.3932475&amp;#34;&amp;gt;People Don’t Want News, They Want Community&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;The 180&amp;lt;/em&amp;gt; (CBC Radio)&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://louderthanten.com/coax/what-the-fuck-are-you-talking-about&amp;#34;&amp;gt;What the Fuck Are You Talking About?&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;Coax&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://medium.com/@poploser/a-good-shock-3ee460a9a090&amp;#34;&amp;gt;A Good Shock&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;This Magazine&amp;lt;/em&amp;gt; (Medium repost)&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://louderthanten.com/coax/take-this-job-and-do-it&amp;#34;&amp;gt;Take This Job and Do It&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;Coax&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://this.org/2015/03/19/wiki-gap/&amp;#34;&amp;gt;Wiki Gap&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;This Magazine&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://this.org/2014/12/15/terms-of-service/&amp;#34;&amp;gt;Terms Of Service&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;This Magazine&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://this.org/2014/08/22/dot-com-stone-age/&amp;#34;&amp;gt;Dot Com Stone Age&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;This Magazine&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://medium.com/@poploser/but-is-it-art-d697aea035a9&amp;#34;&amp;gt;But Is It Art?&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;This Magazine&amp;lt;/em&amp;gt; (Medium repost)&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://medium.com/@poploser/ted-and-the-declining-value-of-ideas-492bc0271e79&amp;#34;&amp;gt;TED and the Declining Value of Ideas&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;This Magazine&amp;lt;/em&amp;gt; (Medium repost)&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://medium.com/@poploser/we-were-promised-jetpacks-3e279c5876d0&amp;#34;&amp;gt;We Were Promised Jetpacks&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;This Magazine&amp;lt;/em&amp;gt; (Medium repost)&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://medium.com/@poploser/the-idea-and-the-thing-c94d9235e6cd&amp;#34;&amp;gt;The Idea and the Thing&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;em&amp;gt;This Magazine&amp;lt;/em&amp;gt; (Medium repost)&amp;lt;/p&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading-1&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading-1&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Searching for Terry Punchout</title>
+      <link>//localhost:1313/terrypunchout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+      <guid>//localhost:1313/terrypunchout/</guid>
+      <description>&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;searching-for-terry-punchout&amp;#34; --&amp;gt;
+
+&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;Searching for Terry Punchout
+  &amp;lt;a href=&amp;#34;#searching-for-terry-punchout&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h4&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Garden State&amp;lt;/em&amp;gt; meets &amp;lt;em&amp;gt;King Leary&amp;lt;/em&amp;gt; in this slapshot debut novel. Adam Macallister’s sportswriting career is about to end before it begins, but he’s got one last shot—a Sports Illustrated profile about hockey’s most notorious goon, the reclusive Terry Punchout—who also happens to be Adam’s estranged father. &amp;lt;img src=&amp;#34;/terrypunchout.jpg&amp;#34; alt=&amp;#34;Searching for Terry Punchout&amp;#34; style=&amp;#34;width: 30%; height: 30%; float: right; margin: 10px 0 10px 10px;&amp;#34;&amp;gt; Adam returns to Pennington, Nova Scotia, where Terry now lives in the local rink and drives the Zamboni. Going home means drinking with old friends, revisiting neglected relationships, and dealing with lingering feelings about his father and dead mother—and discovering that his friends and family are kinder and more complicated than he ever gave them credit for. Searching for Terry Punchout is a charming and funny tale of hockey, small-town Maritime life, and how, despite our best efforts, nothing can save us from becoming our parents.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;mark&amp;gt;Awards:&amp;lt;/mark&amp;gt; Shortlisted for the &amp;lt;a href=&amp;#34;https://thewalrus.ca/partnerships/amazon-canada-first-novel-award-2019/&amp;#34;&amp;gt;2019 Amazon First Novel Award&amp;lt;/a&amp;gt; and the &amp;lt;a href=&amp;#34;https://www.kobo.com/ca/en/list/the-literary-fiction-shortlist/SrgHYIctT8IzogjWyYTYHQ&amp;#34;&amp;gt;Kobo Emerging Writer Prize&amp;lt;/a&amp;gt;. Part of &amp;lt;a href=&amp;#34;https://www.cbc.ca/books/canadareads/meet-the-canada-reads-2026-contenders-9.7040200&amp;#34;&amp;gt;Canada Reads 2026&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;mark&amp;gt;Media:&amp;lt;/mark&amp;gt; &amp;lt;em&amp;gt;&amp;lt;a href=&amp;#34;https://www.cbc.ca/books/have-a-hockey-hangover-tyler-hellards-debut-novel-is-really-about-coming-home-9.7103979&amp;#34;&amp;gt;Bookends&amp;lt;/a&amp;gt;&amp;lt;/em&amp;gt; with Mattea Roach. / &amp;lt;em&amp;gt;&amp;lt;a href=&amp;#34;https://www.cbc.ca/listen/live-radio/1-67-the-next-chapter-with-antonio-michael-downing/clip/16201399-why-steve-dangle-says-novel-picked-canada-reads&amp;#34;&amp;gt;The Next Chapter&amp;lt;/a&amp;gt;&amp;lt;/em&amp;gt; with Antonio Michael Downing. / &amp;lt;em&amp;gt;&amp;lt;a href=&amp;#34;https://www.cbc.ca/listen/live-radio/1-37-mainstreet-ns/clip/16202317-canada-reads-author-tyler-hellard-novel-searching-terry&amp;#34;&amp;gt;Mainstreet&amp;lt;/a&amp;gt;&amp;lt;/em&amp;gt; Nova Scotia.&amp;lt;/p&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+&amp;lt;iframe src=&amp;#34;//www.cbc.ca/i/phoenix/player/syndicate/?sourceId=9.7155014&amp;#34; width=&amp;#34;640&amp;#34; height=&amp;#34;360&amp;#34; frameborder=&amp;#34;0&amp;#34; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;mark&amp;gt;Buy the book:&amp;lt;/mark&amp;gt; &amp;lt;a href=&amp;#34;https://www.indiebookstores.ca/book/9781988784106/&amp;#34;&amp;gt;Your Local&amp;lt;/a&amp;gt; / &amp;lt;a href=&amp;#34;http://invisiblepublishing.com/product/searching-for-terry-punchout/&amp;#34;&amp;gt;Invisible Publishing&amp;lt;/a&amp;gt; / &amp;lt;a href=&amp;#34;https://alllitup.ca/books/S/Searching-for-Terry-Punchout&amp;#34;&amp;gt;All Lit Up&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;a href=&amp;#34;https://www.chapters.indigo.ca/en-ca/books/product/9781988784106-item.html?mkwid=sKLCrs73h_dc&amp;amp;amp;pcrid=44154474422&amp;amp;amp;pkw&amp;amp;amp;pmt&amp;amp;amp;s_campaign=goo-Shopping_Books&amp;amp;amp;ds_rl=1254699&amp;amp;amp;gclid=EAIaIQobChMIubz06rGw2gIVx2F-Ch0LOguyEAYYASABEgKMovD_BwE&amp;#34;&amp;gt;Chapters&amp;lt;/a&amp;gt; / &amp;lt;a href=&amp;#34;https://www.kobo.com/ca/en/ebook/searching-for-terry-punchout&amp;#34;&amp;gt;Kobo&amp;lt;/a&amp;gt; / &amp;lt;a href=&amp;#34;https://itunes.apple.com/ca/book/searching-for-terry-punchout/id1374051759?mt=11&amp;#34;&amp;gt;Apple Books&amp;lt;/a&amp;gt; / &amp;lt;a href=&amp;#34;https://www.librarything.com/work/21881952/t/Searching-for-Terry-Punchout&amp;#34;&amp;gt;LibraryThing&amp;lt;/a&amp;gt; / &amp;lt;a href=&amp;#34;https://openlibrary.org/works/OL21362239W/Searching_for_Terry_Punchout?edition=key:/books/OL28936687M&amp;#34;&amp;gt;OpenLibrary&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading-1&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading-1&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;“It’s an assured debut, wryly funny… [I’m] ready to count it as a quiet triumph.”&amp;lt;/em&amp;gt;
+–&amp;lt;em&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href=&amp;#34;http://reviewcanada.ca/magazine/2018/12/enough-heat-to-melt-the-ice/&amp;#34;&amp;gt;Literary Review of Canada&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;“It doesn’t take much to get me to read a novel featuring hockey and a guy named Terry, but Tyler Hellard’s stellar debut hit me like an errant stick to the head. A big story set in a small town, by turns funny and sad, moving and melancholy, Searching for Terry Punchout stays with you long after the final buzzer. Masterful.”&amp;lt;/em&amp;gt;
+–&amp;lt;strong&amp;gt;Terry Fallis&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;“Funny, quirky, sad and sweet. Searching for Terry Punchout is a story of friendship and family, of hockey heroes and small-town hangovers, of Zamboni lessons and thrift store beauty queens. Highly recommended!”&amp;lt;/em&amp;gt;
+–&amp;lt;strong&amp;gt;Will Ferguson&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;“Tyler Hellard has created a thoughtful, warm-hearted, and deeply human sports tale, one that will resonate with any reader who has wondered if you can ever really go home again. Searching For Terry Punchout is a vivid portrait of small town hockey life, of fathers and sons, of feeling left behind and leaving things behind, of clinging to glory and grasping for meaning. With this strong debut, Hellard makes sense of what home really means, and in doing so reveals how close we actually are to the people and places that can often feel so far away.”&amp;lt;/em&amp;gt;
+–&amp;lt;strong&amp;gt;Stacey May Fowles&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;“Tyler Hellard’s Terry Punchout is utterly complete and heartbreakingly authentic. If all the rinks in small-town Canada and the game of hockey itself were to suddenly disappear from the earth they could be reconstructed from the blueprint that is this excellent novel. And if you know the game at all at its grass roots, you’ll recognize characters from these pages and never look at them the same way again.”&amp;lt;/em&amp;gt;
+–&amp;lt;strong&amp;gt;Gare Joyce&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading-2&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading-2&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Pop Loser Vol. 6</title>
+      <link>//localhost:1313/poploser/vol6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+      <guid>//localhost:1313/poploser/vol6/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;pop-loser-vol-6&amp;#34; --&amp;gt;
 
@@ -5172,9 +5294,9 @@ One of the time-sucking children finally complained — he had been waiting mont
     
     <item>
       <title>Photos</title>
-      <link>//localhost:8080/photos/</link>
+      <link>//localhost:1313/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/photos/</guid>
+      <guid>//localhost:1313/photos/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;photos&amp;#34; --&amp;gt;
 
@@ -5191,16 +5313,49 @@ One of the time-sucking children finally complained — he had been waiting mont
 &amp;lt;/a&amp;gt;
 &amp;lt;/h4&amp;gt;
 
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
 &amp;lt;div class=&amp;#34;gallery&amp;#34;&amp;gt;
 &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076217/r0013993-xl_vi5bra.jpg&amp;#34;&amp;gt;&amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076219/r0013990-xl_l2ymot.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076214/r0013987-xl_i4mwut.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782075796/r0013969-xl_jeptvw.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076238/r0013965-xl_mha9pl.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076162/r0013959-xl_zawxy4.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076207/r0013951-xl_xd80dm.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076193/r0013786-xl_s9bhz1.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076243/r0013782-xl_m88rms.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782075791/r0013779-xl_eg1axf.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076198/r0013778-xl_ytwfit.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076196/r0013775-xl_l0v72r.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782075793/r0013771-xl_ibrn6z.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782075804/r0013768-xl_xecwrc.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076201/r0013754-xl_viaiax.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076212/r0013737-xl_mutg3l.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076167/r0013730-xl_reuysj.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076172/r0013726-xl_rs9mhg.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076169/r0013709-xl_x58tld.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076164/r0013708-xl_vig6rv.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076204/r0013627-post-xl_uhj2sh.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076302/r0013623-post-xl_kvyy5l.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076225/r0013612-post-xl_zsmend.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076222/r0013605-post-xl_qh8swy.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076241/r0013602-post-xl_rhydms.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782075801/r0013601-post-xl_z6pkj2.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076227/r0013599-post-xl_lcuhsy.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076230/r0013593-post-xl_t9pjde.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782075798/r0013585-post-xl_kucodk.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076235/r0013579-post-xl_cpfg7z.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076233/r0013574-post-xl_blcn0x.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076251/r0013530-xl_c18wx0.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076313/r0013521-xl_xexnhi.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076249/r0013506-xl_qwvqk7.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076209/r0013484-xl_fl6k4q.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077173/img-2946-xl_tkzyfq.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077179/img-2885-xl_oxejq3.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077198/ffa1156f14-xl_e9sdaa.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077205/ff9b9aab11-xl_umf9ec.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077105/f49dbf1621-xl_e8uxmh.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077092/ee8be1aeb4-xl_bfm6vh.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077080/d75c6da497-xl_qovuwf.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077213/cfd9460cc8-xl_yfmd9q.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077201/cd4e27e842-xl_vp6pkm.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077077/b826e6353c-xl_qcvjbm.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077191/b36ac8b886-xl_mmdhf4.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077185/b08b6314a4-xl_nelr9w.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077110/afa006a479-xl_lz0cjn.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077176/a4669302ad-xl_yz2srd.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077102/a368178032-xl_aaxpwf.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077089/9722f122c8-xl_lzzdwp.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077089/9722f122c8-xl_lzzdwp.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077195/8685da897f-xl_ihepki.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077214/85856ba3c2-xl_h6oqsa.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077207/7bb3f4b4f1-xl_amrcje.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077098/6b91aba201-xl_mhi7p0.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077086/5aed2e4319-xl_vcgfgp.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077074/5aa2fa30f8-xl_qa5ko1.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077166/4599230af2-xl_u9j8qt.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076615/4136fc8a38-xl_nnsuyr.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077083/3f7ac64dc4-xl_tn4e0b.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076611/365a97f3be-xl_ywzvxv.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077169/3316d619f8-xl_s5dyja.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077070/2d5688f856-xl_sbxmj5.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077163/259bb5ecb6-xl_x4yhkd.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076621/24e5fce9fb-xl_d4eomi.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077160/24d9f1efca-xl_imrxuv.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076618/1f6ccf27a3-xl_xrmdbk.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077188/118bf04163-xl_d4xj1x.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782076832/0bd643f4af-xl_fp5xeh.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/q_auto/f_auto/v1782077067/00d29006f5-xl_dhhayk.jpg&amp;#34;&amp;gt;
-&amp;lt;/div&amp;gt;</description>
+&amp;lt;/div&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading-1&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading-1&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+</description>
     </item>
     
     <item>
       <title>Mixtapes</title>
-      <link>//localhost:8080/mixtapes/</link>
+      <link>//localhost:1313/mixtapes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/mixtapes/</guid>
+      <guid>//localhost:1313/mixtapes/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;mixtapes&amp;#34; --&amp;gt;
 
@@ -5218,7 +5373,6 @@ One of the time-sucking children finally complained — he had been waiting mont
 &amp;lt;/h4&amp;gt;
 
 &amp;lt;p&amp;gt;I&amp;amp;rsquo;m still deciding how best to port the whole mixtape archive. In the meantime, you can use the player below for recent episodes. Here is the &amp;lt;a href=&amp;#34;https://media.rss.com/podloser/feed.xml&amp;#34;&amp;gt;podcast feed&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;br&amp;gt;&amp;lt;iframe class=&amp;#34;iframe&amp;#34; src=&amp;#34;https://player.rss.com/podloser?theme=light&amp;amp;v=2&amp;amp;share=false&amp;amp;about=false&amp;#34; width=&amp;#34;100%&amp;#34; height=&amp;#34;393px&amp;#34; title=&amp;#34;Pod Loser&amp;#34; frameBorder=&amp;#34;0&amp;#34; allow=&amp;#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&amp;#34; allowfullscreen scrolling=&amp;#34;no&amp;#34;&amp;gt;&amp;lt;a href=&amp;#34;https://rss.com/podcasts/podloser&amp;#34;&amp;gt;Pod Loser | RSS.com&amp;lt;/a&amp;gt;&amp;lt;/iframe&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading&amp;#34; --&amp;gt;
 
@@ -5235,14 +5389,311 @@ One of the time-sucking children finally complained — he had been waiting mont
 &amp;lt;/a&amp;gt;
 &amp;lt;/h3&amp;gt;
 
+&amp;lt;iframe class=&amp;#34;iframe&amp;#34; src=&amp;#34;https://player.rss.com/podloser?theme=light&amp;amp;v=2&amp;amp;share=false&amp;amp;about=false&amp;#34; width=&amp;#34;100%&amp;#34; height=&amp;#34;393px&amp;#34; title=&amp;#34;Pod Loser&amp;#34; frameBorder=&amp;#34;0&amp;#34; allow=&amp;#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&amp;#34; allowfullscreen scrolling=&amp;#34;no&amp;#34;&amp;gt;&amp;lt;a href=&amp;#34;https://rss.com/podcasts/podloser&amp;#34;&amp;gt;Pod Loser | RSS.com&amp;lt;/a&amp;gt;&amp;lt;/iframe&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading-1&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading-1&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Arcade Scores</title>
+      <link>//localhost:1313/tarcade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+      <guid>//localhost:1313/tarcade/</guid>
+      <description>&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;arcade-scores&amp;#34; --&amp;gt;
+
+&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;Arcade scores.
+  &amp;lt;a href=&amp;#34;#arcade-scores&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h4&amp;gt;
+
+&amp;lt;p&amp;gt;I love vintage arcade games and built my own &amp;lt;mark&amp;gt;&amp;amp;ldquo;TARCADE&amp;amp;rdquo;&amp;lt;/mark&amp;gt; using &amp;lt;a href=&amp;#34;https://retropie.org.uk/&amp;#34;&amp;gt;RetroPie&amp;lt;/a&amp;gt;. I will never be on Twin Galaxies, but my goal with these games is just to be better than the average person at my &amp;lt;a href=&amp;#34;https://burnblocksocial.com/&amp;#34;&amp;gt;local pinball bar&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;#34;gallery&amp;#34;&amp;gt;
+&amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/v1782489010/1FAC0FD5-E02D-4D74-8DED-A55A9CA5780F_a4hhmz.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/v1782488661/1C21855D-1585-426D-B57F-CBD67219A1BA_x2ovge.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/v1782488661/3EC7E52C-AAD7-4D4F-B01C-B9D9905FDC6F_pljpih.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/v1782488662/2972254C-DB22-4671-95A2-32DA69100D4A_mbtzh1.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/v1782488662/0F2325DE-BF9C-4CB7-93FA-18F70A65F8C1_vwgw59.jpg&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://res.cloudinary.com/dwwbmrctk/image/upload/v1782488661/F85D66F3-D428-4317-B668-44D21BAEE314_v3l030.jpg&amp;#34;&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+&amp;lt;div style=&amp;#34;display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto; text-align: center;&amp;#34;&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Ms. Pac-Man&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;43,320 &amp;lt;br&amp;gt;(Home)
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Ms. Pac-Man&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;60,720 &amp;lt;br&amp;gt;(Burn Block)
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Ms. Pac-Man&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;39,080 &amp;lt;br&amp;gt;(Arcade1Up)
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Asteroids Deluxe&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;27,040
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Tube Panic&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;138,584
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Gyruss&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;64,300
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Q*bert&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;17,545
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Centipede&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;41,077
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Aero Fighters&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;225,100
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Gemini Wing&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;119,780
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Tempest&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;14,483
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Raiden&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;143,500
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Night Striker&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;12,611,010 &amp;lt;br&amp;gt;(Stage G)
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;BurgerTime&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;50,350
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style=&amp;#34;width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;&amp;#34;&amp;gt;
+    &amp;lt;mark&amp;gt;Galaga&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt;105,860
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading-1&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading-1&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>About tylerhellard.com</title>
+      <link>//localhost:1313/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+      <guid>//localhost:1313/info/</guid>
+      <description>&amp;lt;img src=&amp;#34;/tyler.jpg&amp;#34; alt=&amp;#34;Tyler Hellard at the Calgary Public Library (photo by tk)&amp;#34; class=&amp;#34;art&amp;#34;&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;about-me&amp;#34; --&amp;gt;
+
+&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;About me.
+  &amp;lt;a href=&amp;#34;#about-me&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h4&amp;gt;
+
+&amp;lt;p&amp;gt;Hi. I’m Tyler. I’m usually a professional &amp;lt;a href=&amp;#34;https://www.linkedin.com/in/tylerhellard/&amp;#34;&amp;gt;copywriter&amp;lt;/a&amp;gt;, but sometimes I write &amp;lt;a href=&amp;#34;/writing/&amp;#34;&amp;gt;other things&amp;lt;/a&amp;gt;, too. Once I wrote a &amp;lt;a href=&amp;#34;/terrypunchout/&amp;#34;&amp;gt;novel&amp;lt;/a&amp;gt; that (incredibly!) became a Canadian best seller (impossibly!) eight years after it came out.&amp;lt;/p&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;about-pop-loser&amp;#34; --&amp;gt;
+
+&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;About Pop Loser.
+  &amp;lt;a href=&amp;#34;#about-pop-loser&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h4&amp;gt;
+
+&amp;lt;p&amp;gt;Pop Loser is a blog (and, for awhile, newsletter) I&amp;amp;rsquo;ve written on and off since 2007. It&amp;amp;rsquo;s changed a lot over the years and I&amp;amp;rsquo;ve burned it all to the ground five or six times. The most recent &amp;lt;a href=&amp;#34;/poploser/&amp;#34;&amp;gt;iteration&amp;lt;/a&amp;gt; is a bit esoteric, with a little writing and a lot of links, and includes &amp;amp;ldquo;&amp;lt;a href=&amp;#34;/mixtapes/&amp;#34;&amp;gt;mixtapes&amp;lt;/a&amp;gt;.&amp;amp;rdquo; When each volume finishes, posts are collected on an omnibus page: Vol. &amp;lt;a href=&amp;#34;/vol1/&amp;#34;&amp;gt;1&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;/vol2/&amp;#34;&amp;gt;2&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;/vol3/&amp;#34;&amp;gt;3&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;/vol4/&amp;#34;&amp;gt;4&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;/vol5/&amp;#34;&amp;gt;5&amp;lt;/a&amp;gt;. Most previous versions of Pop Loser are archived in the following places: Newsletters #1–78 (unavailable), &amp;lt;a href=&amp;#34;https://web.archive.org/web/20220312222936/https://us2.campaign-archive.com/home/?u=73477be0867f67a19f1fec465&amp;amp;amp;id=f5d72195cb&amp;#34;&amp;gt;#79–97&amp;lt;/a&amp;gt; and &amp;lt;a href=&amp;#34;https://web.archive.org/web/20200809173730/https://www.getrevue.co/profile/poploser/#archive&amp;#34;&amp;gt;#98–113&amp;lt;/a&amp;gt; (2014–2018). &amp;lt;a href=&amp;#34;https://web.archive.org/web/20240000000000*/http://poploser.org/&amp;#34;&amp;gt;Original blog&amp;lt;/a&amp;gt; (&amp;lt;a href=&amp;#34;https://web.archive.org/web/20070528205939/http://www.spincity.org/blog/&amp;#34;&amp;gt;2007&amp;lt;/a&amp;gt;–&amp;lt;a href=&amp;#34;https://web.archive.org/web/20140106063005/http://poploser.org/&amp;#34;&amp;gt;2014&amp;lt;/a&amp;gt;) and &amp;lt;a href=&amp;#34;https://poploser.tumblr.com/&amp;#34;&amp;gt;Tumblr&amp;lt;/a&amp;gt; clone (&amp;lt;a href=&amp;#34;https://poploser.tumblr.com/archive&amp;#34;&amp;gt;2010–2014&amp;lt;/a&amp;gt;). From 2019 to 2024, I probably had better things to do.&amp;lt;/p&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading-1&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading-1&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;tech-stuff&amp;#34; --&amp;gt;
+
+&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;Tech stuff.
+  &amp;lt;a href=&amp;#34;#tech-stuff&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h4&amp;gt;
+
+&amp;lt;p&amp;gt;As of July 2026, this website is powered by &amp;lt;a href=&amp;#34;https://gohugo.io/&amp;#34;&amp;gt;Hugo&amp;lt;/a&amp;gt; using a modified version of &amp;lt;a href=&amp;#34;https://kaiiiz.github.io/hugo-theme-monochrome/&amp;#34;&amp;gt;Monochrome&amp;lt;/a&amp;gt; and hosted on &amp;lt;a href=&amp;#34;https://github.com/poploser/tylerhellard.com&amp;#34;&amp;gt;GitHub&amp;lt;/a&amp;gt;. The type is set primarily in &amp;lt;a href=&amp;#34;https://github.com/vernnobile/mondaFont&amp;#34;&amp;gt;Monda&amp;lt;/a&amp;gt; with icons, including the many skulls, come from &amp;lt;a href=&amp;#34;https://fontawesome.com/&amp;#34;&amp;gt;Font Awesome&amp;lt;/a&amp;gt;. Basic stats are collected with &amp;lt;a href=&amp;#34;https://www.goatcounter.com/&amp;#34;&amp;gt;GoatCounter&amp;lt;/a&amp;gt; (most options turned off — I&amp;amp;rsquo;m only getting basic page views and some limited referral data). All content is written and edited in markdown with &amp;lt;a href=&amp;#34;https://ia.net/writer&amp;#34;&amp;gt;IA Writer&amp;lt;/a&amp;gt;. Here are your &amp;lt;span style=&amp;#34;color: #fff; background: #FE5C00; padding: 0 5px;&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;RSS&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt; options: 🚒 &amp;lt;a href=&amp;#34;https://tylerhellard.com/feed.xml&amp;#34;&amp;gt;Firehose&amp;lt;/a&amp;gt; (blog posts, other writing, mixtapes, photos, etc.) / 📰 &amp;lt;a href=&amp;#34;https://tylerhellard.com/poploser.xml&amp;#34;&amp;gt;Pop Loser&amp;lt;/a&amp;gt; (just the blog posts) / 🎧 &amp;lt;a href=&amp;#34;https://media.rss.com/podloser/feed.xml&amp;#34;&amp;gt;Pod Loser&amp;lt;/a&amp;gt; (a podcast feed for just the mixtapes).&amp;lt;/p&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading-2&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading-2&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;elsewhere&amp;#34; --&amp;gt;
+
+&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;Elsewhere.
+  &amp;lt;a href=&amp;#34;#elsewhere&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h4&amp;gt;
+
+&amp;lt;p&amp;gt;I went scorched earth on social media a few years ago, but have crept back onto &amp;lt;a href=&amp;#34;https://mstdn.ca/@poploser&amp;#34;&amp;gt;Mastodon&amp;lt;/a&amp;gt; (though I accidentally nuked all my follows and followers in a bout of Fediverse transfer stupidity in June 2026) and &amp;lt;a href=&amp;#34;https://bsky.app/&amp;#34;&amp;gt;Bluesky&amp;lt;/a&amp;gt;. Most posts to this site also filter out to those sites and sometimes I even scroll those feeds and &amp;amp;ldquo;engage&amp;amp;rdquo; with people. Sometimes.&amp;lt;/p&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading-3&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading-3&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;copyright-credits-etc&amp;#34; --&amp;gt;
+
+&amp;lt;h4 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;Copyright, credits, etc.
+  &amp;lt;a href=&amp;#34;#copyright-credits-etc&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h4&amp;gt;
+
+&amp;lt;p&amp;gt;All original content on this site is available via the &amp;lt;a href=&amp;#34;https://creativecommons.org/licenses/by-nc-sa/4.0/&amp;#34;&amp;gt;CC BY-NC-SA 4.0&amp;lt;/a&amp;gt; license, with the exception of personal photos in which people can be identified, which are “All Rights Reserved.” If you’re a link blogger, don&amp;amp;rsquo;t feel obligated to “h/t” or “via” this site as it’s not something I do very often. Any headshots of me (including the one at the top of this page) are by &amp;lt;a href=&amp;#34;https://www.facebook.com/uppimage/&amp;#34;&amp;gt;Monique de St. Croix&amp;lt;/a&amp;gt; and should be credited as such.&amp;lt;/p&amp;gt;
+&amp;lt;!-- end-chunk --&amp;gt;
+&amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading-4&amp;#34; --&amp;gt;
+
+&amp;lt;h3 class=&amp;#34;header-anchor-wrapper&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;fa-solid fa-skull-crossbones&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;a href=&amp;#34;#heading-4&amp;#34; class=&amp;#34;header-anchor-link&amp;#34;&amp;gt;
+&amp;lt;svg
+    xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34;
+    width=&amp;#34;1rem&amp;#34; height=&amp;#34;1rem&amp;#34; viewBox=&amp;#34;0 0 24 24&amp;#34; fill=&amp;#34;none&amp;#34;
+    stroke=&amp;#34;currentColor&amp;#34; stroke-width=&amp;#34;2&amp;#34; stroke-linecap=&amp;#34;round&amp;#34;
+    stroke-linejoin=&amp;#34;round&amp;#34;&amp;gt;
+    &amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;9&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;9&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;4&amp;#34; y1=&amp;#34;15&amp;#34; x2=&amp;#34;20&amp;#34; y2=&amp;#34;15&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;10&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;8&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;&amp;lt;line x1=&amp;#34;16&amp;#34; y1=&amp;#34;3&amp;#34; x2=&amp;#34;14&amp;#34; y2=&amp;#34;21&amp;#34;&amp;gt;&amp;lt;/line&amp;gt;
+&amp;lt;/svg&amp;gt;
+
+&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
 </description>
     </item>
     
     <item>
       <title>About Pop Loser</title>
-      <link>//localhost:8080/poploser/about/</link>
+      <link>//localhost:1313/poploser/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-      <guid>//localhost:8080/poploser/about/</guid>
+      <guid>//localhost:1313/poploser/about/</guid>
       <description>&amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;pop-loser&amp;#34; --&amp;gt;
 
@@ -5260,9 +5711,9 @@ One of the time-sucking children finally complained — he had been waiting mont
 &amp;lt;/h4&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;A journal of innumerable confusions.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Pop Loser is a collection of half-thoughts, links and mixtapes sorta about technology, media and culture. &amp;lt;a href=&amp;#34;/poploser/&amp;#34;&amp;gt;Volume 6&amp;lt;/a&amp;gt; is now in progress.&amp;lt;br&amp;gt;
+&amp;lt;p&amp;gt;Pop Loser is a collection of half-thoughts, links and mixtapes sorta about technology, media, arts and culture. &amp;lt;a href=&amp;#34;/poploser/&amp;#34;&amp;gt;Volume 6&amp;lt;/a&amp;gt; is now in progress.&amp;lt;br&amp;gt;
 &amp;lt;mark&amp;gt;Collected:&amp;lt;/mark&amp;gt; &amp;lt;a href=&amp;#34;/poploser/vol1&amp;#34;&amp;gt;Vol. 1&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;/poploser/vol2&amp;#34;&amp;gt;Vol. 2&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;/poploser/vol3&amp;#34;&amp;gt;Vol. 3&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;/poploser/vol4&amp;#34;&amp;gt;Vol. 4&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;/poploser/vol4&amp;#34;&amp;gt;Vol. 5&amp;lt;/a&amp;gt;.&amp;lt;br&amp;gt;
-&amp;lt;mark&amp;gt;Also:&amp;lt;/mark&amp;gt; &amp;lt;a href=&amp;#34;/mixtapes&amp;#34;&amp;gt;Mixtapes&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;RSS&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;TKTK&amp;#34;&amp;gt;Podcast&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;mark&amp;gt;Also:&amp;lt;/mark&amp;gt; &amp;lt;a href=&amp;#34;/mixtapes/&amp;#34;&amp;gt;Mixtapes&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;/feed.xml&amp;#34;&amp;gt;RSS&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;#34;https://media.rss.com/podloser/feed.xml&amp;#34;&amp;gt;Podcast&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
 &amp;lt;!-- end-chunk --&amp;gt;
 &amp;lt;!-- begin-chunk data-anchor=&amp;#34;heading&amp;#34; --&amp;gt;
 
@@ -5329,6 +5780,15 @@ One of the time-sucking children finally complained — he had been waiting mont
 &amp;lt;/a&amp;gt;
 &amp;lt;/h3&amp;gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/menu.navbar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+      <guid>//localhost:1313/menu.navbar/</guid>
+      <description>&amp;lt;p&amp;gt;&amp;lt;a class=&amp;#34;footer&amp;#34; href=&amp;#34;/&amp;#34; alt=&amp;#34;Home&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-house&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;footer&amp;#34; href=&amp;#34;/poploser/&amp;#34; alt=&amp;#34;Pop Loser&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-skull&amp;#34; style=&amp;#34;color: #EA1889;&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;footer&amp;#34; href=&amp;#34;/terrypunchout/&amp;#34; alt=&amp;#34;Searching for Terry Punchout&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-book-open&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;footer&amp;#34; href=&amp;#34;/writing/&amp;#34; alt=&amp;#34;Some Writing&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-paragraph&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;footer&amp;#34; href=&amp;#34;/mixtapes/&amp;#34; alt=&amp;#34;Mixtapes&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-radio&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;footer&amp;#34; href=&amp;#34;/info/&amp;#34; alt=&amp;#34;More Info&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-circle-info&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;footer&amp;#34; href=&amp;#34;/photos/&amp;#34; alt=&amp;#34;Photos&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-camera-retro&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;footer&amp;#34; href=&amp;#34;/tarcade/&amp;#34; alt=&amp;#34;Arcade Scores&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-ghost&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;footer&amp;#34; href=&amp;#34;https://mstdn.ca/@poploser&amp;#34; alt=&amp;#34;Follow Me on Mastodon&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-brands fa-mastodon&amp;#34; style=&amp;#34;color: #563ACC;&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;a class=&amp;#34;footer&amp;#34; href=&amp;#34;https://bsky.app/profile/tylerhellard.com&amp;#34; alt=&amp;#34;Follow Me on Bluesky&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-brands fa-bluesky&amp;#34; style=&amp;#34;color: #87CEEB; margin: 0;&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;footer&amp;#34; href=&amp;#34;https://www.linkedin.com/in/tylerhellard/&amp;#34; alt=&amp;#34;I’d like to add you to my professional network on LinkedIn&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-brands fa-linkedin&amp;#34; style=&amp;#34;color: #0072b1; margin: 0;&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;footer&amp;#34; href=&amp;#34;mailto:tylerc@spincity.org&amp;#34; alt=&amp;#34;Email Me&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-envelope&amp;#34; style=&amp;#34;color: #222; margin: 0;&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;footer&amp;#34; href=&amp;#34;https://tylerhellard.com/feed.xml&amp;#34; alt=&amp;#34;RSS Feed&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;fa-solid fa-rss&amp;#34; style=&amp;#34;color: #FE5C00; margin: 0;&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 </description>
     </item>
     
