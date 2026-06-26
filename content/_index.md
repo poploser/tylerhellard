@@ -3,6 +3,9 @@ title: "Tyler Hellard | Pop Loser"
 draft: false
 ---
 
+#### Please note.
+This website is currently moving hosts and engines. Expect some shit to be broken for a few days while things propagate. 
+
 {{% intro %}}
 Hi. I'm Tyler. I'm a [writer](/writing/) in Calgary. I like making [mixtapes](/mixtapes/), watching [baseball](https://www.scoresheet.com/CWWW/NL_Brian_Fawcett.htm) and playing old [video games](/tarcade/). I have three kids and one wife. I wrote a [novel](/terypunchout/) that eventually became a best seller.  
 ==Pop Loser== is the name I use for my [blog](/poploser/), social accounts and other occasional projects.  
