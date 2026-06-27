@@ -21,5 +21,5 @@ If you're here because of [Canada Reads](https://www.cbc.ca/books/canadareads), 
 #### &#11015; Firehose. 
 <i class="fa-solid fa-skull-crossbones" style="margin: 0 3px 30px 3px;"></i><i class="fa-solid fa-skull-crossbones" style="margin: 0 3px 30px 3px;"></i><i class="fa-solid fa-skull-crossbones" style="margin: 0 3px 30px 3px;"></i>
 
-{{< recent-posts sortby="publishDate" limit=10 >}}
+{{< recent-posts sortby="publishDate" limit=25 >}}
 
