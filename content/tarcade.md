@@ -37,6 +37,9 @@ I love vintage arcade games and built my own =="TARCADE"== using [RetroPie](http
   <div style="width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;">
     <mark>Centipede</mark><br>41,077
   </div>
+    <div style="width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;">
+    <mark>Frogger</mark><br>8,490
+  </div>
   <div style="width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;">
     <mark>Aero Fighters</mark><br>225,100
   </div>
