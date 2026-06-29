@@ -15,3 +15,5 @@ I love markdown and use [IA Writer](https://ia.net/writer) for pretty much every
 It lets you edit text in markdown and supports just the basic markdown functions (i.e., bold, italics, headers). It keeps your chapters/scenes in order by renaming the files on the fly. It lets you add a summary, notes and tasks for each file and stores the metadata directly in each scene's markdown file. It exports both your full manuscript (just the text) or your outline (titles and summaries) to a fresh markdown file that you can then style how you want using whatever you want. 
 
 All of this feels terribly dirty. And also pretty sweet. 
+
+### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
