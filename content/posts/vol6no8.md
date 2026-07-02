@@ -15,12 +15,12 @@ While this brave new world of AI is also a hellscape of rapacious capitalism, th
 
 But my new favourite thing is called "Pop Loser FM." It's a personal radio station (really just a playlist manager) and I've been running it nearly 24/7 for almost a month. Here's the logic: 
 
-- The player defaults to shuffling a large folder of music I love. 
-- I have other folders for different moods or themes, including a Mornings folder that shuffles between 5 and 10 AM, an hour of 90s' alt-rock nostalgia every night, etc. 
-- At the top of each hour, it plays the most recent five-minute CBC news update. 
-- Podcasts I like play at specific times on specific days as though they were live radio programs — Passan on baseball every Wednesday at 5 PM, *Bookends* on Thursdays, *This American Life* on Saturday and Sunday afternoons, and so on.
-- Plays a random episode from my 10-year collection of *Iggy Confidential* episodes every Saturday and Sunday morning at 10 AM, plays from an archive of old Art Bell *Coast to Coast* episodes from midnight until 4 AM, and so on. 
-- You get the point...
+&#8227; The player defaults to shuffling a large folder of music I love. 
+&#8227; I have other folders for different moods or themes, including a Mornings folder that shuffles between 5 and 10 AM, an hour of 90s' alt-rock nostalgia every night, etc. 
+&#8227; At the top of each hour, it plays the most recent five-minute CBC news update. 
+&#8227; Podcasts I like play at specific times on specific days as though they were live radio programs — Passan on baseball every Wednesday at 5 PM, *Bookends* on Thursdays, *This American Life* on Saturday and Sunday afternoons, and so on.
+&#8227; Plays a random episode from my 10-year collection of *Iggy Confidential* episodes every Saturday and Sunday morning at 10 AM, plays from an archive of old Art Bell *Coast to Coast* episodes from midnight until 4 AM, and so on. 
+&#8227; You get the point...
 
 It runs all the time — I just turn speakers on and off as I need them, and I can update the playlists over my network. (Instead of adding pod catching to it, I use [Downcast](https://downcast.fm/) and point PLFM to those folders and customize the handling for each podcast in Downcast and point to its folders.) The current build has been running non-stop since last Friday on an old iMac, and I cannot overstate how much I love it. Currently it streams around my home using AirFoil, letting me send to multiple Bluetooth receivers at the same time, as well as any computer or iOS device running the AirFoil client (it's a very nice utility, though it doesn't send everything quite in sync, so if you're standing somewhere where you can hear two of the speakers at the same time it sends your brain into a minor fit), but my long-term plan is to connect it to a micro FM transmitter that covers my house and maybe bleeds a little so I can pick it up out in the garage (though I live on a flight path, so probably I need to be careful there). 
 
@@ -29,7 +29,7 @@ I have no larger point on AI. These are just simple tools built quickly (and poo
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
 
 <img src="https://res.cloudinary.com/dwwbmrctk/image/upload/v1782522194/Screenshot_2026-06-26_at_6.59.31_PM_opfhfp.png" class="art" alt="A grotesque by Alice B. Woodward from Bon-Mots of the Nineteenth Century, 1897"> 
-A "grotesque" from *[Bon-Mots of the Nineteenth Century](https://publicdomainreview.org/collection/bon-mots-of-the-eighteenth-and-nineteenth-century-1897/)* / Alice B. Woodward / 1897 
+A "grotesque" from [Bon-Mots of the Nineteenth Century](https://publicdomainreview.org/collection/bon-mots-of-the-eighteenth-and-nineteenth-century-1897/) / Alice B. Woodward / 1897 
 
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
 
