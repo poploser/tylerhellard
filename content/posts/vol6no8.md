@@ -29,6 +29,7 @@ I have no larger point on AI. These are just simple tools built quickly (and poo
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
 
 <img src="https://res.cloudinary.com/dwwbmrctk/image/upload/v1782522194/Screenshot_2026-06-26_at_6.59.31_PM_opfhfp.png" class="art" alt="A grotesque by Alice B. Woodward from Bon-Mots of the Nineteenth Century, 1897"> 
+
 A "grotesque" from [Bon-Mots of the Nineteenth Century](https://publicdomainreview.org/collection/bon-mots-of-the-eighteenth-and-nineteenth-century-1897/) / Alice B. Woodward / 1897 
 
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
