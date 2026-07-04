@@ -38,3 +38,4 @@ Welcome to Pop Loser Volume 6. ✌️
 
 #### Extensions. 
 📺 <a href="https://wantmymtv.vercel.app/player.html?channel=1stday">MTV Rewind</a>. / <a href="https://vhs.texs.org/en/slipcover">VHS slipcover maker</a>. / <a href="https://channelsurfer.tv/">Channel Surfer</a>. / 🧑‍💻 <a href="https://tools.rmv.fyi/">delphitools</a>, a collection of small, low stakes and low effort tools. / <a href="https://tangiblemediacollection.com/">Tangible Media</a>, a historical collection of information storage technology. / <a href="https://wikicity.app/">WikiCity</a>. / <a href="https://freakpages.org/">Freak Pages</a>, esoteric articles from Wikipedia and other places. / <a href="https://friendster.com/">Friendster</a> is back and less useful than ever. 
+

@@ -16,4 +16,3 @@ It lets you edit text in markdown and supports just the basic markdown functions
 
 All of this feels terribly dirty. And also pretty sweet. 
 
-### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>

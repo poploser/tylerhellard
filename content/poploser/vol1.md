@@ -247,4 +247,5 @@ Many, many years ago while visiting my then-girlfriend/now-wife in Toronto, I bo
 ### <i class="fa-solid fa-skull-crossbones"></i><i class="fa-solid fa-skull-crossbones"></i><i class="fa-solid fa-skull-crossbones"></i>
 
 #### End notes.
-That’s a wrap on Vol. 1—I have fantasy baseball to think about. I think I’ve got this more or less figured out now. Back soon.
+That’s a wrap on Vol. 1—I have fantasy baseball to think about. I think I’ve got this more or less figured out now. Back soon. 
+

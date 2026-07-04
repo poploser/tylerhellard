@@ -187,4 +187,3 @@ If you’re reading this, thanks. Sincerely.
 
 ==NOTE:== Old tapes are archived [here](https://archive.org/details/pod-loser-love).
 
-### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>

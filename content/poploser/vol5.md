@@ -229,4 +229,3 @@ I have come down with shingles. On my face. It sucks. One more mixtape to come, 
 
 ==Featuring: Sloan, Golomb, Sunday Cruise, Home Counties, Jolie Laide, Neko Case, Tyler Ballgame, Stereolab, Soulwax, Tune-Yards, Smerz, Joy Crookes, Viagra Boys, HotWax, Psychedelic Porn Crumpets, BIG SPECIAL, Upchuck, Soft Bait, Lambrini Girls, MADMADMAD, Melody’s Echo Chamber, Girl Group, Young Fathers, Foxwarren, David Byrne, and Saya Gray.==
 
-### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>

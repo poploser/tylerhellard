@@ -17,4 +17,3 @@ Newsletter #001–78, <a href="https://web.archive.org/web/20220312222936/https:
 #### Related.
 <a href="https://web.archive.org/web/20160501000000*/vinylslut.fm">Vinylslut.FM</a> / <a href="https://web.archive.org/web/20130502234447/http://poploser.tv/">PopLoser.TV</a> / <a href="https://web.archive.org/web/20150801043212/http://52mixtapes.com/">52 Mixtapes</a> 
 
-### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>

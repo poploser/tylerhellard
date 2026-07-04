@@ -47,4 +47,3 @@ A "grotesque" from <a href="https://publicdomainreview.org/collection/bon-mots-o
 #### Explorations. 
 📺 *[Stanger Things](https://www.themoviedb.org/tv/66732-stranger-things/season/4)*, now into S4 with the 14yo. / 🍿 *[Nothing](https://www.themoviedb.org/movie/10981-nothing)*, so good. / 🍿 *[Moonfall](https://www.themoviedb.org/movie/406759-moonfall)*, so stupid and I'm starting to work on a unified theory of Roland Emmerich movies. / 📺 *[Doctor Who](https://www.themoviedb.org/tv/57243-doctor-who/season/13)*, down to our last handful of Jodie Whitaker episodes. / A lot of *Star(s) Trek(s)* on shuffle. 
 
-### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>

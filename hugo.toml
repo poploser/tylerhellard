@@ -92,7 +92,7 @@ theme = 'hugo-theme-monochrome'
     enable_pagination = true
 
 [pagination]
-  pagerSize = 3
+  pagerSize = 20
 
   [params.author]
     name = "Tyler Hellard"
