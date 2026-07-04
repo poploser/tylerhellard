@@ -17,7 +17,7 @@
     {{ end }}
   {{ end }}
 {{ end }}
-{{ $paginator := .Paginate $filtered 3 }}
+{{ $paginator := .Paginate $filtered 25 }}
 {{ range $paginator.Pages }}
 <article class="content-margin recent-post">
   {{ .Content }}
