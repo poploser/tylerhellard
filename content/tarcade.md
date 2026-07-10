@@ -8,6 +8,7 @@ I love vintage arcade games and built my own =="TARCADE"== using [RetroPie](http
 
 <div class="gallery">
 <img src="https://res.cloudinary.com/dwwbmrctk/image/upload/v1782489010/1FAC0FD5-E02D-4D74-8DED-A55A9CA5780F_a4hhmz.jpg"> <img src="https://res.cloudinary.com/dwwbmrctk/image/upload/v1782488661/1C21855D-1585-426D-B57F-CBD67219A1BA_x2ovge.jpg"> <img src="https://res.cloudinary.com/dwwbmrctk/image/upload/v1782488661/3EC7E52C-AAD7-4D4F-B01C-B9D9905FDC6F_pljpih.jpg"> <img src="https://res.cloudinary.com/dwwbmrctk/image/upload/v1782488662/2972254C-DB22-4671-95A2-32DA69100D4A_mbtzh1.jpg"> <img src="https://res.cloudinary.com/dwwbmrctk/image/upload/v1782488662/0F2325DE-BF9C-4CB7-93FA-18F70A65F8C1_vwgw59.jpg"> <img src="https://res.cloudinary.com/dwwbmrctk/image/upload/v1782488661/F85D66F3-D428-4317-B668-44D21BAEE314_v3l030.jpg">
+</div>
 
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
 
