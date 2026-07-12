@@ -25,6 +25,10 @@ draft: false
 <a href="https://mlb24all.ir/">MLB</a>
 </div>
 
+<div style="width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;">
+<a href="https://www.wcostream.tv/">Toons</a>
+</div>
+
 </div>
 
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
