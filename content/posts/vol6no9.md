@@ -39,4 +39,4 @@ The mess of code displaying in the RSS feed is hopefully fixed with this post. O
 #### Explorations. 
 🍿 *[A Man Called Otto](https://www.themoviedb.org/movie/937278-a-man-called-otto)*. / 🍿 *[Coraline](https://www.themoviedb.org/movie/14836-coraline)*. / 📚 *[The Hitchhiker’s Guide to the Galaxy](https://openlibrary.org/books/OL27011341M/The_Hitchhiker's_Guide_to_the_Galaxy)* by Douglas Adams, read to the kids. / 🍿 *[The Hitchhiker’s Guide to the Galaxy](https://www.themoviedb.org/movie/7453-the-hitchhiker-s-guide-to-the-galaxy)*, watched with the kids and still disappointing. / 📚 *[Nine Stories](https://openlibrary.org/works/OL3335290W/Nine_Stories?edition=key:/books/OL58652498M)* by JD Salinger. 
 
-
+### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>

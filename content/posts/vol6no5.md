@@ -42,3 +42,4 @@ Now that I’ve seen the show in its purest form, I will go to the grave insisti
 #### Explorations.
 🍿 [_Hard Core Logo_](https://www.themoviedb.org/movie/21589-hard-core-logo?language=en-CA). / 📺 "[The Inheritors](https://www.themoviedb.org/tv/21567-the-outer-limits/season/2/episode/10?language=en-CA)." The only two-part episode from the original _Outer Limits_ featuring a young Robert Duvall. / 📺 [_Essex County_](https://www.themoviedb.org/tv/215443-essex-county). 
 
+### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>

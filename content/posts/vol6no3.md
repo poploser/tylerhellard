@@ -38,3 +38,4 @@ Previously there was <a href="https://blogroll.org/">Ye Olde Blogroll</a> (does 
 #### Explorations.
 📚 <em><a href="https://openlibrary.org/books/OL28334411M/Im_Thinking_Of_Ending_Things">I’m Thinking Of Ending Things</a></em> by Iain Reid. / 🍿 <em><a href="https://www.themoviedb.org/movie/7459">Speed Racer</a></em>. 
 
+### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
