@@ -289,7 +289,7 @@ footer {
 
 /* Left align footer article */
 footer article {
-  text-align: left !important;
+  text-align: center !important;
   max-width: 100% !important;
   margin: 0 !important;
 }

@@ -2,7 +2,8 @@
 Title: "Photos"
 ---
 
-#### Photos.
+#### Snapshots. 
+Collected and posted sometimes. 
 
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
 
