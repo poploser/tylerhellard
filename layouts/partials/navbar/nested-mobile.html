@@ -13,7 +13,7 @@
                     {{ if .URL }}
                         <span><a href="{{ .URL }}">{{- $name | safeHTML -}}</a></span>
                     {{ else }}
-                        <span style="font-weight: 600;">{{- $name | safeHTML -}}</span>
+                        <span>{{- $name | safeHTML -}}</span>
                     {{ end }}
                     {{- partial "navbar/nested-mobile.html" . -}}
                 </li>
@@ -22,7 +22,7 @@
                     {{ if .URL }}
                         <a href="{{ .URL }}">{{- $name | safeHTML -}}</a>
                     {{ else }}
-                        <div style="font-weight: 600;">{{- $name | safeHTML -}}</div>
+                        <div>{{- $name | safeHTML -}}</div>
                     {{ end }}
                 </li>
             {{ end }}

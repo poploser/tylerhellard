@@ -1043,7 +1043,7 @@ header {
     padding: 1.2rem; }
     @media screen and (min-width: 35.5rem) {
       header #sidebar {
-        width: 40%; } }
+        width: 25%; } }
     header #sidebar ul {
       list-style: none;
       padding-left: 0;
