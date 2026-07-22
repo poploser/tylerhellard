@@ -13,7 +13,7 @@
                     {{ if .URL }}
                         <span><a href="{{ .URL }}">{{- $name | safeHTML -}}</a></span>
                     {{ else }}
-                        <span>{{- $name | safeHTML -}}</span>
+                        <span style="font-weight: 600;">{{- $name | safeHTML -}}</span>
                     {{ end }}
                     {{- partial "navbar/nested-mobile.html" . -}}
                 </li>
