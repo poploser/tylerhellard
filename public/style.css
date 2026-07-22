@@ -1038,11 +1038,11 @@ header {
     transition: transform 0.2s;
     transform: translateX(-100%);
     overflow-y: auto;
-    width: 30%;
+    width: 60%;
     padding: 1.2rem; }
     @media screen and (min-width: 35.5rem) {
       header #sidebar {
-        width: 40%; } }
+        width: 10%; } }
     header #sidebar ul {
       list-style: none;
       padding-left: 0;
