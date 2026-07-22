@@ -1039,8 +1039,8 @@ header {
     transform: translateX(-100%);
     overflow-y: auto;
     width: 60%;
-    padding: 1.2rem; }
-    @media screen and (min-width: 15.5rem) {
+    padding: 100px; }
+    @media screen and (min-width: 35.5rem) {
       header #sidebar {
         width: 40%; } }
     header #sidebar ul {
