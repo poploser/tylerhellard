@@ -1031,7 +1031,7 @@ header {
   header #sidebar {
     top: 0;
     left: 0;
-    height: 100%;
+    height: 50%;
     z-index: 20;
     background-color: var(--color-background);
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
@@ -1042,7 +1042,7 @@ header {
     padding: 1.2rem; }
     @media screen and (min-width: 35.5rem) {
       header #sidebar {
-        width: 10%; } }
+        width: 40%; } }
     header #sidebar ul {
       list-style: none;
       padding-left: 0;
