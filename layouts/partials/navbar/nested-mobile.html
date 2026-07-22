@@ -22,7 +22,7 @@
                     {{ if .URL }}
                         <a href="{{ .URL }}">{{- $name | safeHTML -}}</a>
                     {{ else }}
-                        <div>{{- $name | safeHTML -}}</div>
+                        <div style="font-weight: 600;">{{- $name | safeHTML -}}</div>
                     {{ end }}
                 </li>
             {{ end }}
