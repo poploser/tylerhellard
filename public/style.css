@@ -1029,7 +1029,6 @@ header {
     z-index: 10;
     display: none; }
   header #sidebar {
-    position: fixed;
     top: 0;
     left: 0;
     height: 100%;
