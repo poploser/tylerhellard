@@ -31,12 +31,6 @@ theme = 'hugo-theme-monochrome'
   weight = 87
 
 [[menu.navbar]]
-  identifier = "mixtapes"
-  name = '<i class="fa-solid fa-radio"></i> <span style="margin-right: 0 12px;">Tapes</span>'
-  url = "/mixtapes/"
-  weight = 88
-
-[[menu.navbar]]
   identifier = "books"
   name = '<i class="fa-solid fa-book-open"></i> <span style="margin-right: 0 12px;">Book</span>'
   url = "/terrypunchout/"
