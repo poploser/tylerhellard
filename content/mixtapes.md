@@ -3,7 +3,7 @@ title: "Mixtapes"
 draft: false
 ---
 
-Test: 6 Still sidebar
+Test: 7 (dimmer cover)
 
 #### Mixtapes.
 I'm still deciding how best to port the whole mixtape archive. In the meantime, you can use the player below for recent episodes. Here is the [podcast feed](https://media.rss.com/podloser/feed.xml). 

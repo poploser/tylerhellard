@@ -1020,7 +1020,7 @@ header {
   header #sidebar_btn_input:checked ~ #sidebar_canvas_overlay_wrapper #sidebar_canvas_overlay {
     display: block; }
   header #sidebar_canvas_overlay {
-    background-color: rgba(0, 0, 0, 0.75);
+    background-color: rgba(0, 0, 0, 0.25);
     position: fixed;
     top: 0;
     left: 0;
@@ -1031,18 +1031,18 @@ header {
   header #sidebar {
     top: 0;
     left: 0;
-    height: 50%;
+    height: 100%;
     z-index: 20;
     background-color: var(--color-background);
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
     transition: transform 0.2s;
     transform: translateX(-100%);
     overflow-y: auto;
-    width: 60%;
+    width: 30%;
     padding: 1.2rem; }
     @media screen and (min-width: 35.5rem) {
       header #sidebar {
-        width: 40%; } }
+        width: 20%; } }
     header #sidebar ul {
       list-style: none;
       padding-left: 0;
