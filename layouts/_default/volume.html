@@ -1,0 +1,27 @@
+{{ define "main" }}
+    {{ with .Content }}
+        <div class="custom-content">{{ . }}</div>
+        <hr class="section-break">
+    {{ end }}
+
+    {{ $series_name := .Params.series_filter }}
+    {{ $volume_posts := where .Site.RegularPages "Params.series" "intersect" (slice $series_name) }}
+    {{ $volume_posts = sort $volume_posts "Date" "asc" }}
+    {{ $paginator := .Paginate $volume_posts }}
+
+    {{ range $paginator.Pages }}
+        <article>
+            <div class="content">
+                {{ .Content }}
+            </div>
+
+            <footer class="post-footer">
+                <a href="{{ .RelPermalink }}" class="meta-link">
+                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+                </a>
+            </footer>
+        </article>
+    {{ end }}
+
+    {{ partial "pagination.html" . }}
+{{ end }}

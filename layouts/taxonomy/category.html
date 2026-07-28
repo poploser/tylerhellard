@@ -1,0 +1,26 @@
+{{ define "main" }}
+    {{ with .Content }}
+    <div class="custom-content">
+        {{ . }}
+    </div>
+    <hr class="section-break">
+    {{ end }}
+
+    {{ $paginator := .Paginate .Pages }}
+
+    {{ range $paginator.Pages }}
+    <article>
+        <div class="content">
+            {{ .Content }}
+        </div>
+
+        <footer class="post-footer">
+            <a href="{{ .RelPermalink }}" class="meta-link">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            </a>
+        </footer>
+    </article>
+    {{ end }}
+
+    {{ partial "pagination.html" . }}
+{{ end }}

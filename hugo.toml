@@ -1,0 +1,75 @@
+baseURL = "https://tylerhellard.com/"
+languageCode = "en-us"
+title = "Tyler Hellard"
+theme = "poploser"
+paginate = 25
+
+[params]
+  description = "Tyler Hellard's personal website and the Pop Loser blog."
+
+[mediaTypes]
+  [mediaTypes."application/rss"]
+    suffixes = ["rss"]
+
+[outputFormats]
+  [outputFormats.feedXML]
+    mediatype = "application/rss+xml"
+    baseName = "feed"
+  [outputFormats.feedRSS]
+    mediatype = "application/rss"
+    baseName = "feed"
+  [outputFormats.poploserXML]
+    mediatype = "application/rss+xml"
+    baseName = "poploser"
+  [outputFormats.poploserRSS]
+    mediatype = "application/rss"
+    baseName = "poploser"
+
+[outputs]
+  home = ["HTML", "feedXML", "feedRSS", "poploserXML", "poploserRSS"]
+
+# Define taxonomies so we can filter by Tags and Series later
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# Primary Navigation
+[menu]
+    [[menu.main]]
+    identifier = "poploser"
+    name = "<span style='color: #EA1889;'><i class='fa-solid fa-skull'></i></span> Pop Loser"
+    url = "/poploser"
+    weight = 2
+  [[menu.main]]
+    identifier = "writing"
+    name = "<span style='color: #FED600;'><i class='fa-solid fa-paragraph'></i></span> Writing"
+    url = "/writing"
+    weight = 3
+  [[menu.main]]
+    identifier = "book"
+    name = "<span style='color: #33DDFF;'><i class='fa-solid fa-book'></i></span> Book"
+    url = "/terrypunchout"
+    weight = 4
+  [[menu.main]]
+    identifier = "about"
+    name = "<span style='color: #43E608;'><i class='fa-solid fa-user-astronaut'></i></span> About"
+    url = "/info"
+    weight = 5
+  [[menu.main]]
+    name = "<a href='https://mstdn.ca/@poploser'><i class='fa-brands fa-mastodon'></i></a> <a href='/feed.xml'><i class='fa-solid fa-rss'></i></a> <a href='mailto:tylerc@spincity.org'><i class='fa-regular fa-envelope'></i></a>"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      typographer = true
+      linkify = true
+      strikethrough = true
+      table = true
+      tasklist = true
+      footnote = true
+      definitionList = true
+      [markup.goldmark.extensions.extras.mark]
+  enable = true

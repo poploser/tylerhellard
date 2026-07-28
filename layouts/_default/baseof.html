@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+
+<!-- RSS -->
+<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "feed.xml" | absURL }}">
+<link rel="alternate" type="application/rss" title="{{ .Site.Title }}" href="{{ "feed.rss" | absURL }}">
+<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "poploser.xml" | absURL }}">
+<link rel="alternate" type="application/rss" title="{{ .Site.Title }}" href="{{ "poploser.rss" | absURL }}">
+<link rel="alternate" type="application/rss+xml" title="Pod Loser" href="https://media.rss.com/podloser/feed.xml" />
+
+<!-- FEDIVERSE -->
+<meta name="bubbles:fediverse" content="@poploser@mstdn.ca">
+<meta name="fediverse:creator" content="@poploser@mstdn.ca" />
+<link href="https://mstdn.ca/@poploser" rel="me">
+
+<!-- FONT AWESOME ICONS -->
+<script src="https://kit.fontawesome.com/1d4e17216f.js" crossorigin="anonymous"></script>
+
+<!-- GOOGLE FONTS -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Monda:wght@400..700&display=swap" rel="stylesheet">
+
+<!-- GOAT COUNTER -->
+<script data-goatcounter="https://poploser.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+</head>
+<body>
+    <!-- Full-width header container -->
+    <header class="site-header">
+        <div class="header-inner">
+            <h1 class="site-title"><a href="{{ .Site.BaseURL }}"><i class="fa-solid fa-skull-crossbones" style="margin-right: 10px"></i> {{ .Site.Title }}</a></h1>
+            {{ partial "nav.html" . }}
+        </div>
+    </header>
+    
+    <!-- Narrower content container -->
+    <main class="site-main">
+        {{ block "main" . }}{{ end }}
+    </main>
+    
+    <!-- Full-width footer container -->
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <p>
+
+<a href="https://tylerhellard.com/"><i class="fa-solid fa-house"></i></a>
+<a href="https://tylerhellard.com/info/"><i class="fa-solid fa-circle-info"></i></a> | 
+<a href="https://tylerhellard.com/poploser/"><i class="fa-solid fa-skull"></i></a>
+<a href="https://tylerhellard.com/writing/"><i class="fa-solid fa-paragraph"></i></a>
+<a href="https://tylerhellard.com/terrypunchout/"><i class="fa-solid fa-book"></i></a>
+<a href="https://tylerhellard.com/categories/photos/"><i class="fa-solid fa-camera-retro"></i></a>
+<a href="https://tylerhellard.com/tarcade/"><i class="fa-solid fa-ghost"></i></a> | 
+<a href="mailto:tylerc@spincity.org"><i class="fa-regular fa-envelope"></i></a>
+<a href="https://tylerhellard.com/feed.xml"><i class="fa-solid fa-rss"></i></a>
+<a href="https://bubbles.town/source/tylerhellard.com"><i class="fa-solid fa-soap"></i></a>
+<a href="https://media.rss.com/podloser/feed.xml"><i class="fa-solid fa-podcast"></i></a> | 
+<a href="https://mstdn.ca/@poploser"><i class="fa-brands fa-mastodon"></i></a>
+<a href="https://bsky.app/profile/tylerhellard.com"><i class="fa-brands fa-bluesky"></i></a>
+
+        </p>
+        </div>
+    </footer>
+
+<script>
+  var colors = ['#EA1889', '#43E608', '#33DDFF', '#FED600', '#FE5C00'];
+
+  // Cycle highlight colors on all <mark> elements
+  document.querySelectorAll('mark').forEach(function(el, i) {
+    el.classList.add('mark-color-' + (i % colors.length));
+  });
+</script>
+
+    <!-- Lightbox Overlay -->
+    <div id="lightbox-overlay" class="lightbox-overlay">
+        <img id="lightbox-img" class="lightbox-img" src="" alt="Enlarged image">
+    </div>
+
+    <script src="{{ "js/lightbox.js" | relURL }}" defer></script>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+{{ define "main" }}
+    {{ with .Content }}
+        <div class="custom-content">{{ . }}</div>
+        <hr class="section-break">
+        <h5><i class="fa-solid fa-faucet-drip"></i> Firehose</h5><p><em>Posts, photos, "tweets" and more.</em></p><br><br><br>
+    {{ end }}
+
+    {{ $posts := where .Site.RegularPages "Section" "posts" }}
+    {{ $paginator := .Paginate $posts }}
+    
+    {{ range $paginator.Pages }}
+        <article>
+            
+            <div class="content">
+                {{ .Content }}
+            </div>
+
+            <footer class="post-footer">
+                <a href="{{ .RelPermalink }}" class="meta-link">
+                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+                </a>
+            </footer>
+        </article>
+    {{ end }}
+
+    {{ partial "pagination.html" . }}
+{{ end }}

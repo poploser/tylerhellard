@@ -1,0 +1,19 @@
+{{ define "main" }}
+    {{ with .Content }}
+    <div class="custom-content">
+        {{ . }}
+    </div>
+    <hr class="section-break">
+    {{ end }}
+
+    {{ $posts := where site.RegularPages "Params.series" "intersect" (slice "Vol 6") }}
+    {{ $posts = sort $posts "Date" "asc" }}
+
+    {{ range $posts }}
+    <article>
+        <div class="content">
+            {{ .Content }}
+        </div>
+    </article>
+    {{ end }}
+{{ end }}
