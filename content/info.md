@@ -18,7 +18,7 @@ Pop Loser is a blog (and, for a while, newsletter) I've written on and off since
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
 
 #### Tech stuff.
-As of July 2026, this website is powered by [Hugo](https://gohugo.io/) using a modified version of [Monochrome](https://kaiiiz.github.io/hugo-theme-monochrome/) and hosted on [GitHub](https://github.com/poploser/tylerhellard.com). The type is set primarily in [Monda](https://github.com/vernnobile/mondaFont) with icons, including the many skulls, from [Font Awesome](https://fontawesome.com/). Basic stats are collected with [GoatCounter](https://www.goatcounter.com/) (most options turned off — I'm only getting total pageviews and some limited referral data). All content is written and edited in markdown with [IA Writer](https://ia.net/writer). 
+As of July 2026, this website is powered by [Hugo](https://gohugo.io/) using a custom theme and hosted on [GitHub](https://github.com/poploser/tylerhellard.com). The type is set almost entirely in [Monda](https://github.com/vernnobile/mondaFont) with icons and skulls and such from [Font Awesome](https://fontawesome.com/). Basic stats are collected with [GoatCounter](https://www.goatcounter.com/) (most options turned off — I'm only getting total pageviews and some limited referral data). All content is written and edited in markdown with [IA Writer](https://ia.net/writer). 
 
 <span style="color: #fff; background: #FE5C00; padding: 0 5px;">**RSS**</span>: 🚒 [Firehose](https://tylerhellard.com/feed.xml) (blog posts, other writing, mixtapes, photos, etc.) / 🎧 [Pod Loser](	https://media.rss.com/podloser/feed.xml) (a podcast feed for just the mixtapes). 
 

@@ -6,7 +6,7 @@ draft: false
 <div class="custom-content">
 
 #### Arcade scores.
-I love vintage arcade games and built my own =="TARCADE"== using [RetroPie](https://retropie.org.uk/). I will never be on Twin Galaxies, but my goal with these games is just to be better than the average person at my [local pinball bar](https://burnblocksocial.com/). 
+I love classic arcade games and built my own =="TARCADE"== (it's behind a door that looks like a TARDIS — it was ostensibly something for my kids) using [RetroPie](https://retropie.org.uk/). I will never be on Twin Galaxies, but my goal with these games is just to be better than the average person at my [local pinball bar](https://burnblocksocial.com/). 
 
 </div>
 
