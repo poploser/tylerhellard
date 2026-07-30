@@ -7,7 +7,7 @@ toot: "https://mstdn.ca/@poploser/117009327856861320"
 
 <div class="toot">
 I think that’s called “working the problem.”  
-![Mastodon Post](https://cdn.mstdn.ca/media_attachments/files/117/009/327/791/756/653/original/929825d09811bfd3.jpeg)
+<img src="https://cdn.mstdn.ca/media_attachments/files/117/009/327/791/756/653/original/929825d09811bfd3.jpeg">
 </div>
 
 ===
