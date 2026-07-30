@@ -478,3 +478,8 @@ body.lightbox-open {
     width: 75%;
     margin: 0 auto;
 }
+
+.toot img {
+    width: 60%;
+    border: 0;
+}
