@@ -11,7 +11,10 @@
         {{ printf "<atom:link href=%q rel=\"alternate\" type=%q />" .Permalink .MediaType | safeHTML }}
       {{ end }}
     {{ end }}
-    {{ range where .Site.RegularPages "Params.categories" "ne" nil }}
+    {{ $allPages := where .Site.RegularPages "Params.categories" "ne" nil }}
+{{ $fieldNotes := where $allPages "Params.categories" "intersect" (slice "Field Notes") }}
+{{ $pages := complement $fieldNotes $allPages }}
+{{ range $pages }}
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>

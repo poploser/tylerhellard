@@ -468,3 +468,13 @@ body.lightbox-open {
 .lightbox-overlay.active .lightbox-img {
     transform: scale(1);
 }
+
+.toot { 
+    border-radius: 30px;
+    border: 10px solid #17063B;
+    background: #563ACC;
+    color: #fff;
+    padding: 10px; 
+    width: 75%;
+    margin: 0 auto;
+}

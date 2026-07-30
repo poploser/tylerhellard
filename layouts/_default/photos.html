@@ -16,11 +16,15 @@
                 </div>
             </div>
 
-            <footer class="post-footer">
-                <a href="{{ .RelPermalink }}" class="meta-link">
-                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-                </a>
+	    <footer class="post-footer">
+                {{ $link := .RelPermalink }}
+                {{ with .Params.toot }}{{ $link = . }}{{ end }}
+                    <a href="{{ $link }}" class="meta-link">
+                        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+                    </a>
             </footer>
+
+
         </article>
     {{ end }}
 

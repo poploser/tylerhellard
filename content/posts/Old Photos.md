@@ -2,7 +2,7 @@
 title: "📸 Transferred from Old Site"
 categories: ["Photos"]
 date: 2025-07-15
-draft: false
+draft: true
 ---
 
 #### 📸 Photos Moved from Old Site. 
