@@ -3,4 +3,4 @@ title: "Vol 6"
 ---
 
 #### Pop Loser Vol. 6.
-*January 1, 2024 – March 11, 2024.* 
+*April 29, 2026 – July 15, 2026.* 
