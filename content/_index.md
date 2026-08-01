@@ -7,4 +7,4 @@ I'm a [writer](/writing/) in Calgary. I like making mixtapes, watching baseball 
 
 <br>
 
-==Auto-reply:== I am away from my desk until the end of August. 
+==Auto-reply:== *I am away from my desk until the end of August.* 
