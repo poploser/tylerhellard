@@ -6,6 +6,7 @@ draft: false
 ---
 
 #### 📸 August snapshots (or what I did on my summer vacation). 
+We planed, trained and automobiled across Canada. 
 
 <div class="gallery">
 <img src="https://res.cloudinary.com/dwwbmrctk/image/upload/v1787761354/HEIC_to_JPG_branded_35_tzxent.jpg">
