@@ -5,8 +5,8 @@ date: 2026-08-26
 draft: false
 ---
 
-#### 📸 August snapshots (or what I did on my summer vacation). 
-We planed, trained and automobiled across Canada. 
+#### 📸 August snapshots. 
+(Or: What I did on my summer vacation). 
 
 <div class="gallery">
 <img src="https://res.cloudinary.com/dwwbmrctk/image/upload/v1787761354/HEIC_to_JPG_branded_35_tzxent.jpg">
