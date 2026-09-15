@@ -6,5 +6,5 @@ toot: "https://mstdn.ca/@poploser/117276578519196406"
 ---
 
 <div class="toot">
-If you use the word “clearly,” you’ve already lost. 
+If you use the word “clearly,” you’ve already lost.
 </div>

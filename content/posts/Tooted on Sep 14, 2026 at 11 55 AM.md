@@ -6,5 +6,5 @@ toot: "https://mstdn.ca/@poploser/117270679130446691"
 ---
 
 <div class="toot">
-Just did that thing when talking to someone I haven’t seen in awhile and we paused to have a sad little moment about how fun the first few years of Twitter was. 
+Just did that thing when talking to someone I haven’t seen in awhile and we paused to have a sad little moment about how fun the first few years of Twitter was.
 </div>
