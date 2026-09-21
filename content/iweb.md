@@ -18,7 +18,7 @@ draft: false
 </div>
 
 <div style="width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;">
-<a href="https://strmd.link/">Sports</a>
+<a href="https://ntv.st/matches/kobra">Sports</a>
 </div>
 
 <div style="width: 25%; min-width: 180px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin: 5px;">
