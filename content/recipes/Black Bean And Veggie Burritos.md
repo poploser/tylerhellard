@@ -1,5 +1,5 @@
 ---
-title: "Salmon with Lentil Salsa Verde"
+title: "Black Bean And Veggie Burritos"
 draft: false
 ---
 
@@ -333,26 +333,30 @@ draft: false
 </style>
 <figure class="rgf rgf--ink rgf--table" data-rgf-version="0-draft">
   <figcaption class="rgf__head">
-    <h3 class="rgf__title">Salmon with Lentil Salsa Verde</h3>
-    <ul class="rgf__facts"><li class="rgf__fact rgf__fact--hero"><b>10 min+</b> <span>total</span></li><li class="rgf__fact"><b>10</b> <span>ingredients</span></li><li class="rgf__fact"><b>6</b> <span>steps</span></li></ul>
-    <p class="rgf__gear"><span class="rgf__gear-item">regular or toaster oven</span><span class="rgf__gear-item">oven rack</span><span class="rgf__gear-item">foil-lined sheet pan or baking dish</span><span class="rgf__gear-item">medium bowl</span><span class="rgf__gear-item">plates</span></p>
+    <h3 class="rgf__title">Black Bean And Veggie Burritos</h3>
+    <ul class="rgf__facts"><li class="rgf__fact rgf__fact--hero"><b>23 min+</b> <span>total</span></li><li class="rgf__fact"><b>18 min</b> <span>hands-on</span></li><li class="rgf__fact"><b>14</b> <span>ingredients</span></li><li class="rgf__fact"><b>7</b> <span>steps</span></li></ul>
+    <p class="rgf__gear"><span class="rgf__gear-item">large pan</span><span class="rgf__gear-item">pan</span><span class="rgf__gear-item">parchment paper or foil</span><span class="rgf__gear-item">ziplock bag</span></p>
   </figcaption>
   <hr class="rgf__hr"/>
-  <p class="rgf__sr-only">Steps: preheat; Coat the salmon lightly with olive oil and arrange skin-side up on a foil-lined sheet pan or baking dish; Finely chop the shallot, add the anchovy, and chop until homogenous; Broil until the skin is crisp and the flesh flakes easily with a fork, 6 to 10 minutes, skin is crisp and the flesh flakes easily with a fork; Transfer shallot and anchovy mixture to a medium bowl along with ½ cup oil, the lentils, crushed red pepper, parsley, dill and lemon juice, then stir to combine; Divide the lentils and salsa verde onto plates, then top with the salmon, skin-side-up</p>
+  <p class="rgf__sr-only">Steps: heat pan; Add your chopped zucchini, bell pepper and onion into the pan, and cook over a medium low flame until the veggies begin to soften, medium low flame · 7-8 minutes, until the veggies begin to soften; Add in your black beans, hot sauce and spices. Toss together to coat evenly, and continue to cook over a medium flame., medium flame · 5-7 minutes; Remove from heat and let the veggies cool before assembling your burrito., 5 minutes; Lay a wrap flat onto your working surface, spread some cheese over the center, and pour about ⅓ cup of the filling into the center. Fold the sides of the burrito over, then begin rolling tightly from the bottom.; Wipe down the pan you cooked your veggies in, and grill each side of the burrito on medium heat, starting with the opening side down., medium heat · 2 minute; Wrap each burrito individually in parchment paper or foil, and store in a reusable or ziplock bag.</p>
   <table class="rgf__table">
     <tbody>
-<tr class="rgf__setup"><td colspan="4"><span class="rgf__setup-mark">prep</span>preheat</td></tr>
-<tr><td class="rgf__ing"><span class="rgf__qty">4 (6-ounce)</span>skin-on salmon fillets or 1 (1½-pound) fillet , patted dry</td><td class="rgf__op rgf__op--d0" rowspan="2"><span class="rgf__verb">prep salmon</span></td><td class="rgf__op rgf__op--d1" rowspan="2"><span class="rgf__verb">broil</span><span class="rgf__detail">6 to 10 minutes</span><span class="rgf__cue">skin is crisp and the flesh flakes easily with a fork</span></td><td class="rgf__op rgf__op--d2" rowspan="10"><span class="rgf__verb">serve</span></td></tr>
-<tr><td class="rgf__ing rgf__ing--alt"><span class="rgf__qty">½ cup</span>extra-virgin olive oil, plus more for drizzling (lightly)</td></tr>
-<tr><td class="rgf__ing"><span class="rgf__qty">1 small</span>shallot</td><td class="rgf__op rgf__op--d0" rowspan="2"><span class="rgf__verb">chop</span></td><td class="rgf__op rgf__op--d1" rowspan="8"><span class="rgf__verb">mix</span></td></tr>
-<tr><td class="rgf__ing rgf__ing--alt"><span class="rgf__qty">1</span>anchovy fillet</td></tr>
-<tr><td class="rgf__ing"><span class="rgf__qty">½ cup</span>extra-virgin olive oil, plus more for drizzling (½ cup)</td><td class="rgf__flow"></td></tr>
-<tr><td class="rgf__ing rgf__ing--alt"><span class="rgf__qty">1 (15-ounce) can</span>lentils, rinsed and shaken very dry</td><td class="rgf__flow rgf__flow--alt"></td></tr>
-<tr><td class="rgf__ing"><span class="rgf__qty">½ teaspoon</span>crushed red pepper</td><td class="rgf__flow"></td></tr>
-<tr><td class="rgf__ing rgf__ing--alt"><span class="rgf__qty">½</span>packed cup finely chopped parsley leaves and stems</td><td class="rgf__flow rgf__flow--alt"></td></tr>
-<tr><td class="rgf__ing"><span class="rgf__qty">¼</span>packed cup finely chopped dill fronds and stems</td><td class="rgf__flow"></td></tr>
-<tr><td class="rgf__ing rgf__ing--alt">Juice of 1 lemon (3 tablespoons)</td><td class="rgf__flow rgf__flow--alt"></td></tr>
+<tr class="rgf__setup"><td colspan="7"><span class="rgf__setup-mark">prep</span>heat pan<span class="rgf__setup-detail">medium heat · 1 minute</span></td></tr>
+<tr><td class="rgf__ing"><span class="rgf__qty">2 tbsp</span>olive oil</td><td class="rgf__op rgf__op--d1" rowspan="4"><span class="rgf__verb">cook vegetables</span><span class="rgf__detail">medium low flame · 7-8 minutes</span><span class="rgf__cue">until the veggies begin to soften</span></td><td class="rgf__op rgf__op--d2" rowspan="12"><span class="rgf__verb">cook with beans and spices</span><span class="rgf__detail">medium flame · 5-7 minutes</span></td><td class="rgf__op rgf__op--d3 rgf__op--passive" rowspan="12"><span class="rgf__verb">cool</span><span class="rgf__detail">5 minutes</span><span class="rgf__tag">hands-off</span></td><td class="rgf__op rgf__op--d4" rowspan="14"><span class="rgf__verb">assemble</span></td><td class="rgf__op rgf__op--d4" rowspan="14"><span class="rgf__verb">grill</span><span class="rgf__detail">medium heat · 2 minute</span></td><td class="rgf__op rgf__op--d4" rowspan="14"><span class="rgf__verb">freeze</span></td></tr>
+<tr><td class="rgf__ing rgf__ing--alt"><span class="rgf__qty">1</span>zucchini, chopped</td></tr>
+<tr><td class="rgf__ing"><span class="rgf__qty">1</span>red bell pepper, chopped</td></tr>
+<tr><td class="rgf__ing rgf__ing--alt"><span class="rgf__qty">⅓ cup</span>red onion, diced (about ⅓ of a large onion)</td></tr>
+<tr><td class="rgf__ing"><span class="rgf__qty">1 can</span>of black beans, rinsed (15 oz)</td><td class="rgf__flow"></td></tr>
+<tr><td class="rgf__ing rgf__ing--alt"><span class="rgf__qty">1 tbsp</span>hot sauce (optional)</td><td class="rgf__flow rgf__flow--alt"></td></tr>
+<tr><td class="rgf__ing"><span class="rgf__qty">1 tsp</span>chili powder</td><td class="rgf__flow"></td></tr>
+<tr><td class="rgf__ing rgf__ing--alt"><span class="rgf__qty">1 tsp</span>cumin</td><td class="rgf__flow rgf__flow--alt"></td></tr>
+<tr><td class="rgf__ing"><span class="rgf__qty">½ tsp</span>garlic powder</td><td class="rgf__flow"></td></tr>
+<tr><td class="rgf__ing rgf__ing--alt"><span class="rgf__qty">¼ tsp</span>salt</td><td class="rgf__flow rgf__flow--alt"></td></tr>
+<tr><td class="rgf__ing"><span class="rgf__qty">¼ tsp</span>black pepper</td><td class="rgf__flow"></td></tr>
+<tr><td class="rgf__ing rgf__ing--alt"><span class="rgf__qty">¼ tsp</span>smoked paprika</td><td class="rgf__flow rgf__flow--alt"></td></tr>
+<tr><td class="rgf__ing"><span class="rgf__qty">5 large</span>wraps</td><td class="rgf__flow"></td><td class="rgf__flow"></td><td class="rgf__flow"></td></tr>
+<tr><td class="rgf__ing rgf__ing--alt"><span class="rgf__qty">½ cup</span>shredded cheese of choice, like cheddar or mozzarella</td><td class="rgf__flow rgf__flow--alt"></td><td class="rgf__flow rgf__flow--alt"></td><td class="rgf__flow rgf__flow--alt"></td></tr>
     </tbody>
   </table>
-  <p class="rgf__credit"><a href="https://tabularrecipe.com/" rel="noopener">Made with Tabular Recipe</a> original recipe from <a href="https://cooking.nytimes.com/recipes/776880768-Crispy-Salmon-With-Lentil-Salsa-Verde">NYT Cooking</a>.</p>
+  <p class="rgf__credit"><a href="https://tabularrecipe.com/" rel="noopener">Made with Tabular Recipe</a></p>
 </figure>
