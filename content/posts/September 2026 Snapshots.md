@@ -1,7 +1,7 @@
 ---
 title: "📸 September snapshots (or: Yes, we got a new cat)"
 categories: ["Photos"]
-date: 2026-09-02
+date: 2026-10-02
 draft: false
 ---
 
