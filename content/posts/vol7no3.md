@@ -30,21 +30,22 @@ Now you're thinking, "the fuck does 'proper' even mean there?" Well, let me tell
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
 
 <img class="art" src="https://res.cloudinary.com/dwwbmrctk/image/upload/v1792006783/default_mjoq08.jpg" alt="Matthew, a photograph by Kenneth Josephson">
+
 [Matthew](https://www.artic.edu/artworks/151950/matthew) / Kenneth Josephson / 1965
 
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
 
-#### Confusions.
+#### Confusions.  
 🏴‍☠️ [Pirating the pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates). ==❝Legally, this is piracy. Under Section 1201 of the Digital Millennium Copyright Act, merely breaking a Blu-ray’s digital lock to rip the video files is a federal violation, regardless of intent. The law makes no distinction between mass-distributing a movie for profit and preserving the historical record. To take part in these preservation projects is to take on significant legal risk, with admonishments from rights holders and cease-and-desist letters being common.❞== / 📖 [Choose Your Own Adventure](https://gizmodo.com/the-publisher-of-choose-your-own-adventure-is-now-aiming-for-adult-readers-2000816255) books for adults. / Not unrelated: how [romance novels filled sex-ed gaps](https://lithub.com/how-romance-novels-filled-in-the-gaps-left-by-sex-ed/). / 📦 Don’t let anyone take away your [big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/). / 🤬 [Reddit is turning off RSS](https://www.reddit.com/r/modnews/comments/1wubgvt/continuing_our_infrastructure_updates_whats/). / 🧠 [Bad Brains](https://thequietus.com/news/bad-brains-to-release-first-demo-tape-from-1979/) are releasing their original demo tape. ==❝The riff for ‘Pay To Cum’ started as a stream of punk rock vibes fueled by The Ramones, The Damned, and Return To Forever. The title actually meant nothing to us; it was just a fun-loving play on words.❞== / 🎲 Very jealous of these friends who are trying to play through all of [*The Campaign for North Africa*](https://www.nytimes.com/2026/09/18/world/europe/campaign-for-north-africa-game.html), the most tedious war game ever made. 
 
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
 
-#### Extensions.
+#### Extensions.  
 🗄️ [Museum Of Endangered Sounds](https://savethesounds.info/). / [Museum of Time Based Art](https://motba.art/). / 🗂️ [The Ikea Complexity Index](https://ikea.greg.technology/). / 📐 [Bastardica](https://bastardica.mitpit.com/), a foundry for bastard web fonts. / 🎸 [Tuner](https://tuner.gnass.buzz/), for tuning. / [Air Theremin](https://theremin.bizibah.com/). / 🛠️ [Bento/Suite](https://bento.page/), presentation in a single browser file. / [Normal Tools](https://www.normaltools.com/). / [Bye Bye Paywall](https://byebyepaywall.com/). / [Blockr](https://twoplus11.com/blockr/), see what your computer is talking to. / [Butter Box](https://likebutter.app/), file sharing without internet. / [Keeby](https://getkeeby.com/), keyboard sounds. / 👾 [Spaceships](https://spaceships.treybastian.com/), you are not the ship. / 📍 [The David Rumsey Map Collection](https://www.davidrumsey.com/). 
 
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
 
-#### Explorations.
+#### Explorations.  
 📺 *[Hornblower](https://en.wikipedia.org/wiki/Hornblower_(TV_series))*, all of it. I do this every five years or so. / 🍿 *[Mutiny on the Bounty](https://www.themoviedb.org/movie/12311-mutiny-on-the-bounty)* (1935) and *[Mutiny on the Bounty](https://www.themoviedb.org/movie/11085-mutiny-on-the-bounty)* (1962). I think I prefer the older one. / 🍿 *[Spider-Man: Brand New Day](https://www.themoviedb.org/movie/969681-spider-man-brand-new-day)*. Not terrible. / 🍿 *[The Wrong Girls](https://www.themoviedb.org/movie/1226699-the-wrong-girls)* is the stoner comedy we needed. / 🍿 *[Coyote vs. Acme](https://www.themoviedb.org/movie/1204680-coyote-vs-acme)*. / 🍿 *[Zoolander](https://www.themoviedb.org/movie/9398-zoolander)*. / 📺 *[Ted Lasso](https://www.themoviedb.org/tv/97546-ted-lasso)*, because I'm a completist. 
 
 ### <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i> <i class="fa-solid fa-skull-crossbones"></i>
